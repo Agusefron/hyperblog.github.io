@@ -7,6 +7,11 @@ font-size: 16;
 margin: 0;
 padding: 0;
 }
+#cabecera 
+{
+    background-color: deeppink;
+    
+}
 #container
 {
     width: 70%;
