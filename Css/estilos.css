@@ -8,6 +8,14 @@ margin: 0;
 padding: 0;
 }
 
+#cabecera
+{
+background-color: deeppink;
+background-position: center;
+color:white;
+font-weight: bold;
+    
+}
 #container
 {
     width: 70%;
