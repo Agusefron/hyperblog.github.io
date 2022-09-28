@@ -3,4 +3,19 @@ body
 color: aquamarine;
 text-align: center;
 font-family: "Arial";
+font-size: 16;
+margin: 0;
+padding: 0;
+}
+#container
+{
+    width: 70%;
+    margin: 1cm;
+    text-align: center;
+    border: 0 auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#container h1
+{
+    font-size: 20px;
 }
