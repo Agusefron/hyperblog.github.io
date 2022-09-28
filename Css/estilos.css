@@ -7,9 +7,19 @@ font-size: 16;
 margin: 0;
 padding: 0;
 }
+<<<<<<< HEAD
 #cabecera 
 {
     background-color: deeppink;
+=======
+
+#cabecera
+{
+background-color: deeppink;
+background-position: center;
+color:white;
+font-weight: bold;
+>>>>>>> cabecera
     
 }
 #container
