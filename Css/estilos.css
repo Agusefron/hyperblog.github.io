@@ -4,27 +4,24 @@ color: aquamarine;
 text-align: center;
 font-family: "Arial";
 font-size: 16;
-margin: 0;
-padding: 0;
+font-weight: bold;
 }
-
 #cabecera
 {
 background-color: deeppink;
 background-position: center;
 color:white;
 font-weight: bold;
-    
+text-align: center;   
 }
 #container
 {
     width: 70%;
     margin: 1cm;
-    text-align: center;
-    border: 0 auto;
+    border: 1 auto;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-#container h1
-{
-    font-size: 20px;
+#post {
+    text-align: center; 
+    border: 1px solid;
 }
