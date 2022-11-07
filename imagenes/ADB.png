@@ -1,0 +1,1533 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es-es" lang="es-es" dir="ltr">
+<head>
+<meta name="robots" content="noodp" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<meta name="p:domain_verify" content="2ccea02ca84c3bb2953be335373703cf" />
+<link rel="dns-prefetch" href="https://www.google-analytics.com">
+<link rel="dns-prefetch" href="https://cdn.amplitude.com">
+<link rel="dns-prefetch" href="https://apis.google.com">
+<link href='/templates/designevosite/css/unit_style.css?v=1667357219' rel="stylesheet">
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="keywords" content="logo maker, logo design, free, online, logo designer, free logo maker, online logo maker, logo creator, logo generator, create a logo, make a logo, design logo" />
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="description" content="DesignEvo s logo maker helps you create custom logos in minutes for free, no design experience needed Try with millions of icons and 100 fonts immediately!" />
+<title>Free Online Logo Maker, Create Custom Logo Designs - DesignEvo</title>
+<link href="/templates/designevosite/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+<style>
+
+body {
+    background: #f7f7f7;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.menu_bg {
+    display: none;
+}
+
+.fb-like {
+    display: none;
+}
+
+.menu_bg {
+    z-index: 1 !important;
+    font-size: 16px;
+}
+
+.menu_bg .menu {
+    display: none;
+}
+
+.menu_bg * {
+box-sizing: content-box;
+}
+
+.rgt_menu #login-module{
+    display: inline-block !important;
+}
+
+.c-effect__color .c-color-picker
+{
+    top: 0;
+}
+@-webkit-keyframes processing-animation {
+  0% {
+    -webkit-transform: rotateZ(0deg);
+  }
+  100% {
+    -webkit-transform: rotateZ(360deg);
+  }
+}
+
+@-moz-keyframes processing-animation {
+  0% {
+    -moz-transform: rotateZ(0deg);
+  }
+  100% {
+    -moz-transform: rotateZ(360deg);
+  }
+}
+
+@keyframes processing-animation {
+  0% {
+    transform: rotateZ(0deg);
+  }
+  100% {
+    transform: rotateZ(360deg);
+  }
+}
+
+	</style>
+<script src="/web-res/js/fj_dependency.js?d49474b59161d52c789f4dde3866b9d8"></script>
+<script>
+window.fjuser = window.fjuser || {}; window.fjuser.info = {"result":false}
+	</script>
+</head>
+<body>
+
+<script src='https://www.googletagmanager.com/gtag/js?id=UA-988432-18' async defer></script>
+<script>
+            (function (a, s, y, n, c, h, i, d, e) {
+                s.className += ' ' + y;
+                h.start = 1 * new Date;
+                h.end = i = function () {
+                    s.className = s.className.replace(RegExp(' ?' + y), '')
+                };
+                (a[n] = a[n] || []).hide = h;
+                setTimeout(function () {
+                    i();
+                    h.end = null
+                }, c);
+                h.timeout = c;
+            })(window, document.documentElement, 'async-hide', 'dataLayer', 4000, {'GTM-WBQXQMQ': true});
+        
+            (function (i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r;
+                i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments)
+                }, i[r].l = 1 * new Date();
+                a = s.createElement(o),
+                    m = s.getElementsByTagName(o)[0];
+                a.async = 1;
+                a.src = g;
+                a.defer = 1
+                m.parentNode.insertBefore(a, m)
+            })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+        
+            ga('create', 'UA-988432-16', 'auto');
+            ga('require', 'GTM-WBQXQMQ');
+            ga('send', 'pageview');
+        
+            function gaEvent(category, action, label) {
+                try {
+                    ga('send', 'event', category, action, label, 1);
+                } catch (e) {
+                }
+            }
+        
+            function gaPage(url) {
+                try {
+                    ga('set', 'page', url);
+                    ga('send', 'pageview');
+                } catch (e) {
+                }
+            }
+        </script>
+<script src="/web-res/js/fj_body_group_js.js.js?v=1667357221"></script>
+
+<input id="token" type="hidden" name="67b0412407fe1e63d7ea4324f9348865" value="1" />
+<div id="modal_mask" style="display: none;"></div>
+<div class="body">
+
+<div class="menu_bg web_menu_bg">
+<div class="rgt_menu">
+<script type="text/javascript">
+
+
+
+    (function(e,t){var n=e.amplitude||{_q:[],_iq:{}};var r=t.createElement("script")
+    ;r.type="text/javascript";r.async=true
+    ;r.src="https://cdn.amplitude.com/libs/amplitude-4.5.2-min.gz.js"
+    ;r.onload=function(){if(e.amplitude.runQueuedFunctions){
+        e.amplitude.runQueuedFunctions()}else{
+        console.log("[Amplitude] Error: could not load SDK")}}
+    ;var i=t.getElementsByTagName("script")[0];i.parentNode.insertBefore(r,i)
+    ;function s(e,t){e.prototype[t]=function(){
+        this._q.push([t].concat(Array.prototype.slice.call(arguments,0)));return this}}
+        var o=function(){this._q=[];return this}
+        ;var a=["add","append","clearAll","prepend","set","setOnce","unset"]
+        ;for(var u=0;u<a.length;u++){s(o,a[u])}n.Identify=o;var c=function(){this._q=[]
+            ;return this}
+        ;var l=["setProductId","setQuantity","setPrice","setRevenueType","setEventProperties"]
+        ;for(var p=0;p<l.length;p++){s(c,l[p])}n.Revenue=c
+        ;var d=["init","logEvent","logRevenue","setUserId","setUserProperties","setOptOut",
+            "setVersionName","setDomain","setDeviceId","setGlobalUserProperties","identify",
+            "clearUserProperties","setGroup","logRevenueV2","regenerateDeviceId","logEventWithTimestamp",
+            "logEventWithGroups","setSessionId","resetSessionId"]
+        ;function v(e){function t(t){e[t]=function(){
+            e._q.push([t].concat(Array.prototype.slice.call(arguments,0)))}}
+            for(var n=0;n<d.length;n++){t(d[n])}}v(n);n.getInstance=function(e){
+            e=(!e||e.length===0?"$default_instance":e).toLowerCase()
+            ;if(!n._iq.hasOwnProperty(e)){n._iq[e]={_q:[]};v(n._iq[e])}return n._iq[e]}
+        ;e.amplitude=n})(window,document);
+
+    amplitude.getInstance().init('e084fa2522d7c9bd74442b33224f1803');
+    amplitude.getInstance().setUserId(null);
+    window.ealog = window.ealog || {
+
+        addEvent: function (eventType, eventProperties = null) {
+            switch (eventType) {
+                case "revenue":
+                    eventProperties = Object.assign({}, eventProperties);
+                    let revenue = new amplitude.Revenue()
+                        .setPrice(eventProperties.price)
+                        .setQuantity(eventProperties.quantity || 1)
+                        .setRevenueType(eventProperties.revenueType || "income");
+                    delete eventProperties.price;
+                    delete eventProperties.quantity;
+                    delete eventProperties.revenueType;
+                    revenue.setEventProperties(eventProperties);
+                    amplitude.getInstance().logRevenueV2(revenue);
+                    break;
+                default:
+                    amplitude.getInstance().logEvent(eventType, eventProperties);
+                    break;
+            }
+            //debug ealog data;
+            
+            return this;
+        },
+
+        resetAccountId: function (userEmail = '') {
+            this.setUserProperties({'account id': userEmail});
+            return this;
+        },
+
+        setUserProperties: function (userProperties) {
+            amplitude.getInstance().setUserProperties(userProperties);
+            return this;
+        }
+    };
+
+
+    window.addEventListener('DOMContentLoaded', () => {
+        document.querySelectorAll('[data-ealog]').forEach((ele) => {
+            ele.addEventListener('click', () => {
+                let data = ele.dataset.ealog.split(',');
+                ealog.addEvent(data[0], new Function('return ' + data[1])());
+            });
+        });
+    });
+
+    
+/*事件统计*/
+
+//点击首页顶部按钮
+$(document).on("click",".lft_menu ul li a",function () {
+    if($(this).length == 1){
+        ealog.addEvent('click home makeAlogo btn', { buttonLocation: 'top'});
+    }else{
+        console.log("error to select ga element.");
+    }
+});
+//点击首页中部按钮
+$(document).on("click",".make-logo-container a",function () {
+    if($(this).length == 1){
+        window.ealog.addEvent('click home makeAlogo btn', { buttonLocation: 'center'});
+    }else{
+        console.log("error to select ga element.");
+    }
+});
+//点击首页底部按钮
+$(document).on("click",".ad-make-logo a",function () {
+    if($(this).length == 1){
+        window.ealog.addEvent('click home makeAlogo btn', { buttonLocation: 'bottom'});
+    }else{
+        console.log("error to select ga element.");
+    }
+});
+
+
+//点击创建模板的事件统计
+/*function ealogWhenStartFromTemplate() {
+    is_popular = $($(".c-template__categories__popular .c-template__categories__item")[0]).hasClass("active")?true:false;
+    is_favorite = $($(".c-template__categories__popular .c-template__categories__item")[1]).hasClass("active")?true:false;
+    category_name = $(".c-template__categories__list .c-template__categories__item.active span").text();
+    if(category_name == "") // 如果不是选中具体分类，则是popular分类
+    {
+        category_name = $(".c-template__categories__popular .c-template__categories__item.active span").text();
+    }
+
+    template_name = window.ea_template_name;
+
+    window.ealog.addEvent('create by temp', {
+        name:template_name,
+        categories:category_name,
+    });
+}*/
+
+
+
+//点击模板的事件
+/*$(document).on("click",".modal-body .c-template-input .c-template-input__start",function () {
+    if($(this).length == 1){
+        //window.ealog.addEvent('click home makeAlogo btn', { buttonLocation: 'bottom'});
+        ealogWhenStartFromTemplate();
+    }else{
+        console.log("error to select ga element.");
+    }
+});*/
+
+
+//点击Start from Scratch按钮
+$(document).on("click",".c-header__start-container .btn",function () {
+    if($(this).length == 1){
+        window.ealog.addEvent('start from scratch', {});
+    }else{
+        console.log("error to select ga element.");
+    }
+});
+
+//app右上角的download
+$(document).on("click",".c-header__handle-task button[data-name='download']",function () {
+    if($(this).length == 1){
+        //window.ealog.addEvent('click download btn', {});
+        window.ealog.addEvent("click download button",{"is login":window.loginStatus});
+    }else{
+        console.log("error to select ga element.");
+    }
+});
+
+
+//套餐选择页的download
+$(document).on("click",".u-de-download-payment .de-package-free a",function () {
+    if($(this).length == 1){
+        window.ealog.addEvent("click download free logo button", {});
+    }else{
+        console.log("error to select ga element.");
+    }
+});
+
+$(document).on("click",".c-download__agree-btn",function () {
+    if($(this).length == 1){
+        window.ealog.addEvent('free download', {});
+    }else{
+        console.log("error to select ga element.");
+    }
+});
+
+//套餐选择页下载预览图
+$(document).on("click",".ea-package-sample-download-basic",function () {
+    if($(this).length == 1){
+        window.ealog.addEvent('click download sample', {packageType:"basic"});
+    }else{
+        console.log("error to select ga element.");
+    }
+});
+
+$(document).on("click",".ea-package-sample-download-plus",function () {
+    if($(this).length == 1){
+        window.ealog.addEvent('click download sample', {packageType:"plus"});
+    }else{
+        console.log("error to select ga element.");
+    }
+});
+
+//选择对应的套餐后的回调
+window.packageSelectedCallback = function (plan) {
+    if("basic" == plan || "plus" == plan){
+        window.ealog.addEvent('click choose package btn', {packageType:plan});
+    }
+};
+
+window.paymentSuccessEACallback = function (plan,price,type) {
+    price = parseFloat(price);
+    window.ealog.addEvent("revenue",{
+        pay_type:plan,
+        price:price,
+        payment:type
+    });
+};
+
+
+//点击我的logo页面的升级按钮
+$(document).on("click",".btn.upgrade-btn",function () {
+    window.ealog.addEvent('my logos click upgrade', {});
+});
+
+
+//点击我的logo页面的编辑按钮
+$(document).on("click",".c-project-item__info-buts .ea-edit-btn",function () {
+    create_time = $(this).parent().parent().find(".ea-data-create_time").text();
+    plan = $(this).parent().parent().find(".ea-data-plan").text();
+    window.ealog.addEvent("my logo edit",{
+        "temp  create date":create_time,
+        "temp package":plan,
+    });
+});
+
+//点击升级按钮
+$(document).on("click",".c-project-item__info-buts .upgrade-btn",function () {
+    plan = $(this).parent().parent().find(".ea-data-plan").text();
+    page_type = "";
+    if(plan === "basic"){
+        page_type = "upgrade"
+    }else if(plan === "free"){
+        page_type = "package"
+    }
+
+    if(page_type != ""){
+        window.ealog.addEvent("choose package page visit",{
+            "page type":page_type,
+        });
+    }
+});
+
+//点击套餐选择页的升级按钮
+$(document).on("click",".upgrade .u-de-btn.yellow-btn",function (e) {
+    plan = DEPackage.plan;
+    td_index = $(this).parent().parent().index();
+    current = $(".de-currency-dropdown #currency").text();
+    position = "";
+
+    //底部
+    if($(this).attr("id") === "btnPlus"){
+
+        if("basic" === plan){
+            position = "upgrade plus bottom";
+        }else if("free" === plan){
+            position = "plus bottom";
+        }
+
+    }else if($(this).attr("id") === "btnBasic"){
+        if("free" === plan){
+            position = "basic bottom";
+        }
+    }else{
+        //顶部
+        if(td_index === 2){
+            if("free" === plan){
+                position = "basic top";
+            }
+        }else if(td_index === 3){
+            if("basic" === plan){
+                position = "upgrade plus top";
+            }else if("free" === plan){
+                position = "plus top";
+            }
+        }
+    }
+    if(position != ""){
+        event_properties = {
+            "button position":position,
+            "currency":current,
+        };
+        window.ealog.addEvent("choose package select click",event_properties);
+    }
+});
+
+//点击mylogo按钮
+$(document).on("click",".c-header__template .c-header-full-button",function (e) {
+    index = $(this).index();
+    if(window.tmp_header_btn_ea_index === index){
+        return ;
+    }
+    window.tmp_header_btn_ea_index = index;
+    if($(this).index() === 1){
+        window.ealog.addEvent("my logos page visit",{});
+    }else if($(this).index() === 0){
+        //window.ealog.addEvent("template page visit",{});
+    }
+});
+
+//点击模板后的事件统计
+/*$(document).on("click",".c-template-exhibition_list li",function () {
+    img_path = $(this).children("img").attr("src");
+    name_arr = img_path.split("/");
+    img_name = name_arr[name_arr.length - 1];
+    img_name_arr = img_name.split(".");
+    template_name_pos = img_name_arr.length - 2;
+    if(template_name_pos < 0){
+        return;
+    }
+    template_name = img_name_arr[template_name_pos];
+    window.ealog.addEvent("temp click",{
+        name:template_name
+    });
+});*/
+
+
+//页面访问埋点
+$(function () {
+
+//模板页
+page_path = window.location.pathname;
+
+//模板页统计
+if(page_path.indexOf("logo-maker") != -1){
+    window.ealog.addEvent("template page visit",{});
+}
+
+//app页面
+if(page_path.indexOf("apps/logo") != -1){
+    window.ealog.addEvent("edit page visit",{});
+}
+
+
+
+
+
+});
+
+
+
+
+
+
+
+</script>
+<script>
+    const loginLanguage = {"signUp":"Reg\u00edstrate","signUpFree":"Sign Up - Free","login":"Entra","myAccount":"Mis Perfil","myDesigns":"Mis logotipos","signOut":"Cerrar sesi\u00f3n","upgrade":"Upgrade","policyBasic":"Basic Plan","policyPlus":"Plus Plan","policyBasicAnnual":"Basic Annual Plan","policyPlusAnnual":"Plus Annual Plan","policyBasicMonthly":"Basic Monthly Plan","policyPlusMonthly":"Plus Monthly Plan","haveAccount":"\u00bfYa tienes cuenta?","noAccount":"\u00bfNo te has registrado?","facebookSignUp":"Sign Up with Facebook","facebookLogin":"Login with Facebook","googleSignUp":"Sign Up with Google","googleLogin":"Login with Google","or":"o","email":"Correo electr\u00f3nico","emailConfirm":"Confirma tu correo electr\u00f3nico","emailEmpty":"\u00a1El campo de correo electr\u00f3nico no puede estar vac\u00edo!","emailOverLength":"\u00a1La direcci\u00f3n de correo electr\u00f3nico debe tener menos de 64 caracteres!","emailWrongAddress":"Por favor, \u00a1introduce un correo electr\u00f3nico v\u00e1lido!","emailWrongConfirm":"Por favor, \u00a1introduce un correo electr\u00f3nico v\u00e1lido!","emailHasTaken":"The email address is taken.","password":"Contrase\u00f1a","passwordEmpty":"\u00a1La contrase\u00f1a no puede estar vac\u00eda!","passwordOverLength":"\u00a1La contrase\u00f1a debe tener entre 6 y 64 caracteres!","loginErr":"Error al iniciar sesi\u00f3n, por favor comprueba tu conexi\u00f3n y vuelve a intentarlo.","loginPolicy":"Al iniciar sesi\u00f3n, aceptas nuestros ","signPolicy":"Al registrarte, aceptas nuestros ","terms":"T\u00e9rminos de uso","and":" y nuestra ","privacyPolicy":"Pol\u00edtica de privacidad","privacyPolicySub":".","rememberMe":"Recordarme","forgotPassword":"\u00bfRec. contrase\u00f1a?","userWrong":"\u00a1La direcci\u00f3n de correo electr\u00f3nico o la contrase\u00f1a es incorrecta!"};
+    window.language_tag = "es";
+    var localTipTitle = {
+        loginTitle: "Entra",
+        signupTitle: "Regístrate",
+        loginSaveTitle: "Inicia sesión para Guardar",
+        loginPrintTitle: "Inicia sesión para Imprimir",
+        loginShareTitle: "Inicia sesión para Compartir",
+        signupSaveTitle: "Regístrate para Guardar",
+        signupPrintTitle: "Regístrate para Imprimir",
+        signupShareTitle: "Regístrate para Compartir",
+        loginConnectTip: "Error al iniciar sesión, por favor comprueba tu conexión y vuelve a intentarlo.",
+        registerLoginFailed: "El registro se realizó correctamente, pero no se pudo iniciar sesión en tu cuenta.",
+        registerConnectTip: "Error en el registro, por favor comprueba tu conexión y vuelve a intentarlo.",
+        mailEmptyTip: "¡El campo de correo electrónico no puede estar vacío!",
+        mailLengthTip: "¡La dirección de correo electrónico debe tener menos de 64 caracteres!",
+        mailWrongTip: "Por favor, ¡introduce un correo electrónico válido!",
+        mailConfirmTip: "¡Los correos introducidos no coinciden!",
+        pswdEmptyTip: "¡La contraseña no puede estar vacía!",
+        pswdLengthTip: "¡La contraseña debe tener entre 6 y 64 caracteres!",
+        fbNoMail: "Esta cuenta de Facebook no tiene correo electrónico.",
+        fbConnectTip: "Error al conectar con Facebook, por favor comprueba tu conexión y vuelve a intentarlo.",
+        fbConnect: "Conectar con Facebook",
+        logoutConnectTip: "Error al cerrar sesión, por favor comprueba tu conexión y vuelve a intentarlo.",
+        glNoMail: "Esta cuenta de Google no tiene correo electrónico.",
+        glConnectTip: "Error al conectar con Google, por favor comprueba tu conexión y vuelve a intentarlo."
+    };
+    window.csrf_token = "67b0412407fe1e63d7ea4324f9348865";
+
+</script>
+<link href="/web-res/css/fj_login_mod.css?v=1641800127" rel="stylesheet">
+<div id="login"></div>
+<a id="emailService" class="u-hide" target="_blank" href="javascript:void(0)"></a>
+<div class="app_survey" v-cloak v-show="local.doSurvey" v-on:click="">
+<div class="survey-box">
+
+<div class="survey-box-title">¿Bienvenido a DesignEvo!</div>
+<div class="survey-box-sub-title">Vamos a personalizar el diseño de tu logotipo</div>
+
+<div class="steps" v-bind:class="local.animateStepClass">
+<div class="step-item step-point step-point01" v-bind:class="{active0:local.step===1,active:local.step>1}">
+<fj-icon-step-designevo></fj-icon-step-designevo>
+<div class="step-name">Paso 1</div>
+</div>
+<div class="step-item step-border step-border01"><div class="border-inner" v-bind:class="{active:local.step>=2}"></div></div>
+<div class="step-item step-point step-point02" v-bind:class="{active0:local.step===2,active:local.step>2}">
+<fj-icon-step-designevo></fj-icon-step-designevo>
+<div class="step-name">Paso 2</div>
+</div>
+<div class="step-item step-border step-border02"><div class="border-inner" v-bind:class="{active:local.step>=3}"></div></div>
+<div class="step-item step-point step-point03" v-bind:class="{active:local.step>=3}">
+<fj-icon-step-designevo></fj-icon-step-designevo>
+<div class="step-name">Finalizar</div>
+</div>
+</div>
+
+<div v-if="local.step === 2" class="back-btn" v-on:click="goBack">
+<div class="icon"><fj-icon-back /></div>
+<div class="txt">Volver</div>
+</div>
+<div class="box-close" v-on:click="closeBox"><fj-icon-delete></fj-icon-delete></div>
+
+<div class="survey-question" v-if="local.step === 1 && !local.isOtherOrganization">1.¿A qué clase de organización perteneces?</div>
+<div class="survey-question" v-if="local.step === 2 && !local.isOtherOrganization">2.¿Cuál es tu papel?</div>
+
+<div class="survey-answer" v-if="local.answerType === 'organization' && local.step < 3 && !local.isOtherOrganization">
+<div class="answer-item" v-on:click="askRole('enterprise')">
+<div class="icon"><fj-icon-enterprise /></div>
+<div class="name">Empresa</div>
+</div>
+<div class="answer-item" v-on:click="askRole('nonprofit-ngo')">
+<div class="icon"><fj-icon-nonprofit-ngo /></div>
+<div class="name">Sin ánimo de lucro / ONG</div>
+</div>
+<div class="answer-item" v-on:click="askRole('store')">
+<div class="icon"><fj-icon-store /></div>
+<div class="name">Tienda</div>
+</div>
+<div class="answer-item" v-on:click="askRole('government')">
+<div class="icon"><fj-icon-government /></div>
+<div class="name">Gobierno</div>
+</div>
+<div class="answer-item" v-on:click="askRole('self-employed')">
+<div class="icon"><fj-icon-self-employed /></div>
+<div class="name">Autónomo</div>
+</div>
+<div class="answer-item" v-on:click="askRole('community')">
+<div class="icon"><fj-icon-community /></div>
+<div class="name">Autónomo</div>
+</div >
+<div class="answer-item" v-on:click="askRole('school-university')">
+<div class="icon"><fj-icon-school-university /></div>
+<div class="name">Escuela / Universidad</div>
+</div>
+<div class="answer-item" v-on:click="goOtherPage">
+<div class="icon"><fj-icon-other /></div>
+<div class="name">Otra</div>
+</div>
+</div>
+
+<div class="survey-answer" v-if="local.answerType === 'enterprise' && local.step < 3 && !local.isOtherOrganization">
+<div class="answer-item" v-on:click="submitSurvey('HR/Admin')">
+<div class="icon"><fj-icon-hr-admin /></div>
+<div class="name">RRHH / Administrador</div>
+</div>
+<div class="answer-item" v-on:click="submitSurvey('IT/Engineering')">
+<div class="icon"><fj-icon-it-engineering /></div>
+<div class="name">TI / Ingeniería</div>
+</div>
+<div class="answer-item" v-on:click="submitSurvey('Designer')">
+<div class="icon"><fj-icon-designer /></div>
+<div class="name">Designer</div>
+</div>
+<div class="answer-item" v-on:click="submitSurvey('Marketer/PR')">
+<div class="icon"><fj-icon-marketer-pr /></div>
+<div class="name">Marketing / RRPP</div>
+</div>
+<div class="answer-item" v-on:click="submitSurvey('Sales')">
+<div class="icon"><fj-icon-sales /></div>
+<div class="name">Ventas</div>
+</div>
+<div class="answer-item" v-on:click="submitSurvey('Operations/Finance')">
+<div class="icon"><fj-icon-operations-finance /></div>
+<div class="name">Operaciones / finanzas</div>
+</div>
+<div class="answer-item" v-on:click="submitSurvey('Analyst')">
+<div class="icon"><fj-icon-analyst /></div>
+<div class="name">Analista</div>
+</div>
+<div class="answer-item" v-on:click="goOtherPage">
+<div class="icon"><fj-icon-other /></div>
+<div class="name">Otra</div>
+</div>
+</div>
+
+<div class="survey-answer" v-if="local.answerType === 'nonprofit-ngo' && local.step < 3 && !local.isOtherOrganization">
+<div class="answer-item" v-on:click="submitSurvey('HR/Admin')">
+<div class="icon"><fj-icon-hr-admin /></div>
+<div class="name">RRHH / Administrador</div>
+</div>
+<div class="answer-item" v-on:click="submitSurvey('IT/Engineering')">
+<div class="icon"><fj-icon-it-engineering /></div>
+<div class="name">TI / Ingeniería</div>
+</div>
+<div class="answer-item" v-on:click="submitSurvey('Designer')">
+<div class="icon"><fj-icon-designer /></div>
+<div class="name">Diseñador</div>
+</div>
+<div class="answer-item" v-on:click="submitSurvey('Marketer/PR')">
+<div class="icon"><fj-icon-marketer-pr /></div>
+<div class="name">Marketing / RRPP</div>
+</div>
+<div class="answer-item" v-on:click="submitSurvey('Trainer')">
+<div class="icon"><fj-icon-trainer /></div>
+<div class="name">Trainer</div>
+</div>
+<div class="answer-item" v-on:click="submitSurvey('Operations/Finance')">
+<div class="icon"><fj-icon-operations-finance /></div>
+<div class="name">Operaciones / finanzas</div>
+</div>
+<div class="answer-item" v-on:click="submitSurvey('Analyst')">
+<div class="icon"><fj-icon-analyst /></div>
+<div class="name">Analista</div>
+</div>
+<div class="answer-item" v-on:click="goOtherPage">
+<div class="icon"><fj-icon-other /></div>
+<div class="name">Otra</div>
+</div>
+</div>
+
+<div class="survey-answer" v-if="local.answerType === 'store' && local.step < 3 && !local.isOtherOrganization">
+<div class="answer-item" v-on:click="submitSurvey('Owner')">
+<div class="icon"><fj-icon-owner /></div>
+<div class="name">Propietario</div>
+</div>
+<div class="answer-item" v-on:click="submitSurvey('Manager')">
+<div class="icon"><fj-icon-manager /></div>
+<div class="name">Encargado</div>
+</div>
+<div class="answer-item" v-on:click="submitSurvey('Operations/Finance')">
+<div class="icon"><fj-icon-operations-finance /></div>
+<div class="name">Operaciones / finanzas</div>
+</div>
+<div class="answer-item" v-on:click="submitSurvey('Customer Service')">
+<div class="icon"><fj-icon-customer-service /></div>
+<div class="name">Atención al cliente</div>
+</div>
+<div class="answer-item" v-on:click="goOtherPage">
+<div class="icon"><fj-icon-other /></div>
+<div class="name">Otra</div>
+</div>
+</div>
+
+<div class="survey-answer" v-if="local.answerType === 'government' && local.step < 3 && !local.isOtherOrganization">
+<div class="answer-item" v-on:click="submitSurvey('HR/Admin')">
+<div class="icon"><fj-icon-hr-admin /></div>
+<div class="name">RRHH / Administrador</div>
+</div>
+<div class="answer-item" v-on:click="submitSurvey('Operations/Finance')">
+<div class="icon"><fj-icon-operations-finance /></div>
+<div class="name">Operaciones / finanzas</div>
+</div>
+<div class="answer-item" v-on:click="submitSurvey('Analyst')">
+<div class="icon"><fj-icon-analyst /></div>
+<div class="name">Analista</div>
+</div>
+<div class="answer-item" v-on:click="submitSurvey('Trainer')">
+<div class="icon"><fj-icon-trainer /></div>
+<div class="name">Otro</div>
+</div>
+<div class="answer-item" v-on:click="submitSurvey('PR')">
+<div class="icon"><fj-icon-marketer-pr /></div>
+<div class="name">RRPP</div>
+</div>
+<div class="answer-item" v-on:click="submitSurvey('Manager')">
+<div class="icon"><fj-icon-manager /></div>
+<div class="name">Encargado</div>
+</div>
+<div class="answer-item" v-on:click="goOtherPage">
+<div class="icon"><fj-icon-other /></div>
+<div class="name">Otra</div>
+</div>
+</div>
+
+<div class="survey-answer" v-if="local.answerType === 'self-employed' && local.step < 3 && !local.isOtherOrganization">
+<div class="answer-item" v-on:click="submitSurvey('Consultant')">
+<div class="icon"><fj-icon-consultant /></div>
+<div class="name">Consultor</div>
+</div>
+<div class="answer-item" v-on:click="submitSurvey('Agent')">
+<div class="icon"><fj-icon-agent /></div>
+<div class="name">Agente</div>
+</div>
+<div class="answer-item" v-on:click="submitSurvey('Designer')">
+<div class="icon"><fj-icon-designer /></div>
+<div class="name">Diseñador</div>
+</div>
+<div class="answer-item" v-on:click="submitSurvey('Fitness/Health')">
+<div class="icon"><fj-icon-fitness-health /></div>
+<div class="name">Salud / fitness</div>
+</div>
+<div class="answer-item" v-on:click="submitSurvey('Marketer/PR')">
+<div class="icon"><fj-icon-marketer-pr /></div>
+<div class="name">Marketing / RRPP</div>
+</div>
+<div class="answer-item" v-on:click="submitSurvey('Blogger/Writer')">
+<div class="icon"><fj-icon-blogger-writer /></div>
+<div class="name">Blogger / Escritor</div>
+</div>
+<div class="answer-item" v-on:click="goOtherPage">
+<div class="icon"><fj-icon-other /></div>
+<div class="name">Otra</div>
+</div>
+</div>
+
+<div class="survey-answer" v-if="local.answerType === 'community' && local.step < 3 && !local.isOtherOrganization">
+<div class="answer-item" v-on:click="submitSurvey('Organizer')">
+<div class="icon"><fj-icon-organizer /></div>
+<div class="name">Organizer</div>
+</div>
+<div class="answer-item" v-on:click="submitSurvey('Designer')">
+<div class="icon"><fj-icon-designer /></div>
+<div class="name">Diseñador</div>
+</div>
+<div class="answer-item" v-on:click="submitSurvey('Trainer')">
+<div class="icon"><fj-icon-trainer /></div>
+<div class="name">Otro</div>
+</div>
+<div class="answer-item" v-on:click="submitSurvey('Operations/Finance')">
+<div class="icon"><fj-icon-operations-finance /></div>
+<div class="name">Operaciones / finanzas</div>
+</div>
+<div class="answer-item" v-on:click="goOtherPage">
+<div class="icon"><fj-icon-other /></div>
+<div class="name">Otra</div>
+</div>
+</div>
+
+<div class="survey-answer" v-if="local.answerType === 'school-university' && local.step < 3 && !local.isOtherOrganization">
+<div class="answer-item" v-on:click="submitSurvey('Student')">
+<div class="icon"><fj-icon-student /></div>
+<div class="name">Estudiante</div>
+</div>
+<div class="answer-item" v-on:click="submitSurvey('Teacher/Professor')">
+<div class="icon"><fj-icon-teacher-professor /></div>
+<div class="name">Maestro / profesor</div>
+</div>
+<div class="answer-item" v-on:click="submitSurvey('HR/Admin')">
+<div class="icon"><fj-icon-hr-admin /></div>
+<div class="name">RRHH / Administrador</div>
+</div>
+<div class="answer-item" v-on:click="submitSurvey('Marketer/PR')">
+<div class="icon"><fj-icon-marketer-pr /></div>
+<div class="name">Marketing / RRPP</div>
+</div>
+<div class="answer-item" v-on:click="goOtherPage">
+<div class="icon"><fj-icon-other /></div>
+<div class="name">Otra</div>
+</div>
+</div>
+
+<div class="other" v-if="local.isOtherOrganization">
+<input class="input" placeholder="Por favor introduce tu industria u organización." @input="inputChange" v-model="local.otherOrganization" maxlength="256" />
+<div v-if="local.isShowOtherDelBtn" class="icon-delete" @click="clearOtherInput"><fj-icon-delete /></div>
+<div class="input-border"></div>
+<div class="btn" v-on:click="completeOther">Completar</div>
+</div>
+
+<div v-if="local.step === 3" class="email-confirm">
+<div class="icon"><fj-icon-success></fj-icon-success></div>
+<div class="title">
+¡TU CUENTA HA SIDO <br /> REGISTRADA CORRECTAMENTE! </div>
+<div class="desc">
+Para garantizar la seguridad de tu cuenta, por favor comprueba tu correo y haz clic en el enlace de activación para activar tu cuenta ahora. </div>
+<div class="confirm-btn" v-on:click="goConfirmEmail">¡Confirmar ahora!</div>
+</div>
+</div>
+</div>
+<script src="/web-res/js/fj_login_mod.js?v=1666677899"></script>
+</div>
+</div>
+<div class="height_86" style="display: none"></div>
+<script>
+    Vue.component('plus-svg', {
+        template: `
+        <svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="94px" height="94px" viewBox="0 0 94 94" enable-background="new 0 0 94 94" xml:space="preserve">
+            <metadata>
+                <sfw xmlns="&ns_sfw;">
+                    <slices></slices>
+                    <sliceSourceBounds width="94" height="94" y="-94" x="0" bottomLeftOrigin="true"></sliceSourceBounds>
+                </sfw>
+            </metadata>
+            <polygon fill="#DD0000" points="94,94 94,0 0,0 " />
+            <g>
+                <path fill="#FFFEFE" d="M61.184,12.272l-3.297,6.912l6.902-3.306l1.904,1.904l-7.038,7.038L58.2,23.366l1.924-1.924l3.466-3.176
+                l-7.145,3.346l-0.995-0.996l3.345-7.135l-3.171,3.461L53.7,18.866l-1.45-1.45l7.038-7.038L61.184,12.272z" />
+                <path fill="#FFFEFE" d="M70.062,28.51c-0.693,0.692-1.423,1.178-2.189,1.454c-0.768,0.277-1.52,0.33-2.26,0.158
+                c-0.74-0.173-1.404-0.555-1.994-1.144c-0.584-0.583-0.964-1.244-1.141-1.981c-0.178-0.738-0.131-1.494,0.137-2.266
+                c0.27-0.771,0.741-1.497,1.414-2.178l0.349-0.348c0.692-0.693,1.428-1.178,2.204-1.455c0.777-0.277,1.533-0.328,2.271-0.154
+                s1.4,0.554,1.987,1.141c0.587,0.586,0.966,1.248,1.141,1.986c0.174,0.738,0.122,1.496-0.155,2.271
+                c-0.276,0.777-0.76,1.511-1.449,2.2L70.062,28.51z M68.912,26.721c0.738-0.737,1.166-1.431,1.285-2.079
+                c0.119-0.646-0.065-1.216-0.555-1.705c-0.486-0.486-1.053-0.674-1.695-0.559c-0.643,0.114-1.331,0.535-2.066,1.264l-0.343,0.344
+                c-0.718,0.719-1.144,1.408-1.276,2.068s0.051,1.24,0.547,1.736c0.486,0.486,1.051,0.669,1.693,0.547
+                c0.644-0.12,1.332-0.544,2.066-1.273L68.912,26.721z" />
+                <path fill="#FFFEFE" d="M73.253,34.726c0.273-0.273,0.388-0.58,0.341-0.921c-0.047-0.34-0.24-0.843-0.58-1.509
+                c-0.34-0.664-0.578-1.223-0.713-1.674c-0.367-1.232-0.186-2.213,0.546-2.944c0.38-0.38,0.826-0.612,1.339-0.696
+                c0.513-0.083,1.053-0.008,1.621,0.225c0.569,0.234,1.104,0.601,1.604,1.1c0.502,0.504,0.859,1.043,1.07,1.617
+                c0.211,0.576,0.26,1.139,0.145,1.688c-0.113,0.549-0.383,1.035-0.805,1.457l-1.449-1.449c0.322-0.322,0.471-0.675,0.446-1.057
+                c-0.024-0.383-0.22-0.757-0.587-1.124c-0.354-0.354-0.705-0.556-1.051-0.603c-0.347-0.046-0.643,0.053-0.888,0.298
+                c-0.229,0.229-0.306,0.536-0.229,0.921s0.27,0.869,0.582,1.453c0.576,1.072,0.87,1.981,0.88,2.726s-0.259,1.39-0.808,1.938
+                c-0.609,0.609-1.316,0.856-2.124,0.742c-0.808-0.115-1.601-0.562-2.38-1.342c-0.542-0.541-0.936-1.134-1.184-1.775
+                c-0.244-0.645-0.312-1.254-0.202-1.833c0.111-0.578,0.395-1.095,0.849-1.549l1.455,1.455c-0.777,0.776-0.701,1.629,0.227,2.558
+                c0.346,0.344,0.684,0.543,1.019,0.596C72.709,35.077,73.002,34.978,73.253,34.726z" />
+                <path fill="#FFFEFE" d="M85.004,38.442l-2.156-2.155l-5.863,5.863l-1.45-1.45l5.863-5.863l-2.127-2.127l1.175-1.175l5.732,5.733
+                L85.004,38.442z" />
+                <path fill="#FFFEFE" d="M37.908,17.914l-2.479,2.479l-1.45-1.45l7.038-7.038l2.746,2.746c0.529,0.528,0.896,1.09,1.104,1.684
+                c0.208,0.596,0.242,1.179,0.101,1.751c-0.14,0.571-0.437,1.085-0.892,1.539c-0.69,0.69-1.47,0.997-2.339,0.923
+                c-0.871-0.074-1.723-0.527-2.558-1.362L37.908,17.914z M39.083,16.739l1.295,1.295c0.384,0.385,0.767,0.586,1.148,0.607
+                s0.741-0.137,1.076-0.471c0.345-0.346,0.522-0.726,0.532-1.142c0.009-0.415-0.161-0.806-0.513-1.17l-1.329-1.329L39.083,16.739z" />
+                <path fill="#FFFEFE" d="M49.504,27.751c-0.691,0.691-1.422,1.178-2.189,1.455c-0.767,0.276-1.52,0.329-2.26,0.156
+                c-0.74-0.172-1.404-0.553-1.994-1.143c-0.583-0.584-0.963-1.244-1.141-1.982c-0.177-0.737-0.131-1.492,0.138-2.264
+                c0.269-0.772,0.74-1.498,1.414-2.178l0.348-0.349c0.692-0.692,1.428-1.178,2.204-1.454c0.777-0.278,1.534-0.33,2.273-0.156
+                c0.737,0.175,1.399,0.555,1.986,1.141c0.586,0.588,0.967,1.25,1.141,1.987c0.174,0.738,0.123,1.495-0.155,2.272
+                c-0.276,0.775-0.761,1.51-1.45,2.199L49.504,27.751z M48.354,25.962c0.737-0.738,1.167-1.432,1.286-2.078
+                c0.118-0.647-0.066-1.217-0.557-1.707c-0.486-0.486-1.051-0.672-1.694-0.559c-0.643,0.115-1.332,0.537-2.067,1.265l-0.343,0.343
+                c-0.719,0.719-1.144,1.408-1.276,2.069s0.05,1.239,0.546,1.735c0.487,0.486,1.051,0.67,1.695,0.549
+                c0.643-0.121,1.332-0.546,2.067-1.273L48.354,25.962z" />
+                <path fill="#FFFEFE" d="M51.129,31.134l-2.48,2.48l-1.45-1.451l7.038-7.037l2.746,2.745c0.529,0.528,0.896,1.091,1.104,1.685
+                c0.208,0.595,0.241,1.178,0.101,1.75c-0.139,0.572-0.437,1.085-0.891,1.539c-0.69,0.69-1.47,0.998-2.34,0.924
+                s-1.723-0.528-2.557-1.363L51.129,31.134z M52.303,29.96l1.296,1.295c0.384,0.384,0.767,0.586,1.147,0.607
+                c0.382,0.021,0.741-0.137,1.076-0.472c0.345-0.345,0.521-0.726,0.531-1.142c0.01-0.415-0.16-0.805-0.512-1.17l-1.33-1.328
+                L52.303,29.96z" />
+                <path fill="#FFFEFE" d="M65.949,36.838l-4.636,4.636c-0.771,0.77-1.62,1.138-2.55,1.104c-0.93-0.034-1.812-0.468-2.646-1.303
+                c-0.822-0.821-1.258-1.692-1.305-2.61c-0.049-0.918,0.303-1.763,1.053-2.533l4.689-4.688l1.45,1.45l-4.646,4.646
+                c-0.461,0.46-0.687,0.907-0.676,1.339c0.009,0.432,0.209,0.842,0.599,1.232c0.815,0.814,1.658,0.801,2.528-0.043l4.684-4.685
+                L65.949,36.838z" />
+                <path fill="#FFFEFE" d="M62.715,45.351l3.08,3.078l-1.166,1.166L60.1,45.065l7.039-7.039l1.449,1.451L62.715,45.351z" />
+                <path fill="#FFFEFE" d="M70.885,52.948l-2.543-2.542l-1.934,0.967l-1.542-1.542l9.657-4.418l1.344,1.344l-4.402,9.672l-1.543-1.541
+                L70.885,52.948z M69.908,49.624l1.759,1.759l1.75-3.52L69.908,49.624z" />
+                <path fill="#FFFEFE" d="M77.303,57.116l-1.154-1.156l-2.576,2.576l-1.451-1.449l7.039-7.039l2.615,2.615
+                c0.83,0.832,1.287,1.658,1.367,2.48s-0.217,1.57-0.895,2.248c-0.479,0.479-0.984,0.775-1.514,0.889
+                c-0.527,0.113-1.098,0.054-1.71-0.179L77.671,62.5l-0.067,0.067l-1.557-1.557L77.303,57.116z M77.322,54.786l1.17,1.17
+                c0.365,0.363,0.739,0.553,1.124,0.567c0.386,0.015,0.741-0.142,1.065-0.466c0.333-0.333,0.5-0.688,0.501-1.066
+                s-0.192-0.764-0.583-1.152l-1.164-1.166L77.322,54.786z" />
+            </g>
+        </svg>
+        `
+    });
+</script>
+<div class="u-de-download-payment c-package" style="display: none" :class="abTestClass">
+<back-head :func="showAppHidePackage" :title="pageTitle" :desc_pre="local['package-offer-content-pre']" :desc_mid="local['package-offer-content-mid']" :desc_sub="local['package-offer-content-sub']" :back="local['back']" :currency="packCurrency" :select_title="local['currency']" :show_package_free="showFreePackageInHead" :package_free="local['package-free']" :package_free_tip1="local['package-free-tip1']" :package_free_tip2="local['package-free-tip2']"></back-head>
+<div v-if="!isA" class="c-package__plan">
+<package-item v-for="(item,index) in packageData" :currency="packCurrency" :key="item.id" :data="item" :index="index"></package-item>
+</div>
+<div v-if="isA" class="c-package__plan_a">
+<table :class="upgradeClass">
+<tbody>
+<tr>
+<td style="padding: 0">
+<div style="position: relative; width: 100%; height: 326px;">
+<img ref="logoItem" v-bind:src="logo" style="max-width: 260px; max-height: 260px; position: absolute; left: 0; right: 0; bottom: 0; top: 0; margin: auto;">
+</div>
+</td>
+<td v-for="(item,index) in packageData">
+<package-td :currency="packCurrency" :key="item.id" :data="item" :index="index"></package-td>
+</td>
+</tr>
+<tr>
+<td>{{local["high-resolution"]}}
+<div class="c-package__plan-item-tip">
+<info-svg></info-svg>
+<div class="de-package-free-tip-panel">
+{{local["high-resolution-tip"]}}
+</div>
+</div>
+</td>
+<td>{{local["high-resolution-free"]}}</td>
+<td>{{local["high-resolution-paid"]}}</td>
+<td>{{local["high-resolution-paid"]}}</td>
+</tr>
+<tr>
+<td>{{local["transparent-png"]}}
+<div class="c-package__plan-item-tip">
+<info-svg></info-svg>
+<div class="de-package-free-tip-panel">
+{{local["transparent-png-tip"]}}
+</div>
+</div>
+</td>
+<td>
+<unselect-svg></unselect-svg>
+</td>
+<td>
+<select-svg></select-svg>
+</td>
+<td>
+<select-svg></select-svg>
+</td>
+</tr>
+<tr>
+<td>{{local["edit-redownload"]}}
+<div class="c-package__plan-item-tip">
+<info-svg></info-svg>
+<div class="de-package-free-tip-panel">
+{{local["edit-redownload-tip"]}}
+</div>
+</div>
+</td>
+<td>{{local["limited"]}}</td>
+<td>
+<select-svg></select-svg>
+</td>
+<td>
+<select-svg></select-svg>
+</td>
+</tr>
+<tr>
+<td>{{local["lifetime-support"]}}
+<div class="c-package__plan-item-tip">
+<info-svg></info-svg>
+<div class="de-package-free-tip-panel">
+{{local["lifetime-support-tip-pre"]}}<a class="u-de-a" style="text-decoration:underline !important;" href="/contact.html" target="_blank">{{local["contact-us"]}}</a>{{local["lifetime-support-tip-sub"]}}
+</div>
+</div>
+</td>
+<td>
+<unselect-svg></unselect-svg>
+</td>
+<td>
+<select-svg></select-svg>
+</td>
+<td>
+<select-svg></select-svg>
+</td>
+</tr>
+<tr>
+<td>{{local["print-ready"]}}
+<div class="c-package__plan-item-tip">
+<info-svg></info-svg>
+<div class="de-package-free-tip-panel">
+{{local["print-ready-tip-1"]}}
+</div>
+</div>
+</td>
+<td>
+<unselect-svg></unselect-svg>
+</td>
+<td>
+<select-svg></select-svg>
+</td>
+<td>
+<select-svg></select-svg>
+</td>
+</tr>
+<tr>
+<td>{{local["vector-file"]}}
+<div class="c-package__plan-item-tip">
+<info-svg></info-svg>
+<div class="de-package-free-tip-panel">
+{{local["vector-file-tip"]}}
+</div>
+</div>
+</td>
+<td>
+<unselect-svg></unselect-svg>
+</td>
+<td>
+<unselect-svg></unselect-svg>
+</td>
+<td>
+<select-svg></select-svg>
+</td>
+</tr>
+<tr>
+<td>{{local["download-font"]}}
+<div class="c-package__plan-item-tip">
+<info-svg></info-svg>
+<div class="de-package-free-tip-panel">
+{{local["download-font-tip"]}}
+</div>
+</div>
+</td>
+<td>
+<unselect-svg></unselect-svg>
+</td>
+<td>
+<unselect-svg></unselect-svg>
+</td>
+<td>
+<select-svg></select-svg>
+</td>
+</tr>
+<tr>
+<td>{{local["copyright-own"]}}
+<div class="c-package__plan-item-tip">
+<info-svg></info-svg>
+<div class="de-package-free-tip-panel">
+{{local["copyright-own-tip-pre"]}}<a class="u-de-a" style="text-decoration:underline !important;" href="/faq.html#copyright" target="_blank">{{local["faqs"]}}</a>{{local["copyright-own-tip-sub"]}}
+</div>
+</div>
+</td>
+<td>
+<unselect-svg></unselect-svg>
+</td>
+<td>
+<unselect-svg></unselect-svg>
+</td>
+<td>
+<select-svg></select-svg>
+</td>
+</tr>
+<tr>
+<td></td>
+<td>
+<button id="btnFree" @click="toPayment(0)" class="u-de-btn yellow-btn">{{local["continue"]}}</button>
+</td>
+<td>
+<button id="btnBasic" @click="toPayment(1)" class="u-de-btn yellow-btn">{{local["continue"]}}</button>
+</td>
+<td>
+<button id="btnPlus" @click="toPayment(2)" class="u-de-btn yellow-btn">{{local["continue"]}}</button>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p class="c-package__contact-us paymentTypeSupportPlaceToAppend">{{local["contact-us-tip"]}}
+<a class="u-de-a" href="/contact.html" target="_blank">{{local["contact-us"]}}</a>{{local["anytime"]}}
+</p>
+<div v-if="previewImages" class="c-package__white-bar c-package__logo-preview">
+<div class="c-package__swiper">
+<p class="c-package__swiper-tip">{{local["logo-preview"]}}</p>
+<div class="c-package__swiper-scroll">
+<swiper-item :canvas="previewImages"></swiper-item>
+</div>
+</div>
+</div>
+<div style="background: #fff">
+<div class="c-package__faq" :class="{active:true}">
+<h3>{{local["faqs"]}}</h3>
+<ul style="height: 300px">
+<li class="c-package__faq-item" v-for="(FAQsItems,index) in packageFAQs.items">
+<span :class="{active:true}">{{index+1}}</span><span class="c-package__faq-answer">{{FAQsItems.title}}</span><br><span>{{FAQsItems.reply}}</span>
+</li>
+<div class="c-package__faq-splice"></div>
+<a class="c-package__more-faq" href="/faq.html" target="_blank">{{local["more-faqs"]}}</a>
+</ul>
+</div>
+</div>
+</div>
+<script>
+        window.ga_pay = "b";
+    </script>
+<div class="u-de-download-payment c-payment-b c-payment-app" style="display: none">
+<back-head :func="showPackageHidePayment" :title="pageTitle" :back="local['back']"></back-head>
+<div class="c-payment__content">
+<payment-describe ref="paymentDescribe" :data="paymentInfo" :local="local"></payment-describe>
+<div class="c-payment__pay">
+<div :style="{opacity:isShowPay}">
+<label for="card" @click="switchPaymentType('card')" class="c-payment__type">
+<div name="card" class="c-payment__radio c-payment__radio-checked"><i></i></div><img src="data:image/png;base64,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">
+</label>
+<label for="paypal" @click="switchPaymentType('paypal')" style="float: right; width: 126px; margin: 16px 0 0;" class="c-payment__type">
+<div name="paypal" class="c-payment__radio"><i></i></div><img src="data:image/png;base64,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">
+</label>
+</div>
+<div class="c-payment__paypal" @keydown="enterToPay">
+<a :style="{opacity:isShowPay}" class="u-hide" href="/?option=com_project&task=payment.checkoutWithPayPal" id="pp_payment">PayPal</a>
+<p :style="{opacity:isShowPay}" class="c-payment__paypal-tip">{{local["paypal-tip"]}}</p>
+<div class="c-payment__submit">
+<button class="u-de-btn orange-btn u-animate-btn" :disabled="isShowAnimate" @click="toPay('paypal')">
+<span>{{paymentShowInfo.payBtn}}</span>
+</button>
+<p class="u-text-center">
+<span>
+{{local["click-term"]}}
+<a class="u-de-a" style="text-decoration: underline !important;" href="https://www.designevo.com/terms.html" target="_blank">{{local["term-use"]}}.</a>
+</span>
+</p>
+</div>
+</div>
+<div class="c-payment__credit" @keydown="enterToPay">
+<div class="c-payment__credit-input u-de-fl">
+<div :style="{opacity:isShowPay}" class="c-payment__credit-card-name" style="margin-top: 20px">
+<name-svg></name-svg>
+<input type="tel" v-model="cardInfo.cardName" value="cardInfo.cardName" :placeholder="local.cardholderName">
+<p class="u-de-message-tip" v-if="errorStatus.isCardNameError">{{errorTipInfo.cardName}}</p>
+</div>
+<div :style="{opacity:isShowPay}" class="c-payment__credit-card-number">
+<card-svg></card-svg>
+<input type="tel" v-model="cardInfo.cardNumber" value="cardInfo.cardNumber" :placeholder="local.cardNumber">
+<p class="u-de-message-tip" v-if="errorStatus.isCardError">{{errorTipInfo.cardInfo}}</p>
+</div>
+<div :style="{opacity:isShowPay}" class="c-payment__credit-card-info">
+<div class="c-payment__credit-expiration">
+<expiration-svg></expiration-svg>
+<input class="cc-exp" v-model="cardInfo.cardExpiration" value="cardInfo.cardExpiration" type="tel" @input="formatExpiration" placeholder="MM / YY">
+</div>
+<div class="c-payment__credit-cvc">
+<cvc-svg></cvc-svg>
+<input v-model="cardInfo.cardCVC" value="cardInfo.CVC" type="tel" placeholder="CVC" @input="formatCVC">
+<div>
+<div class="c-payment__credit-cvc-tip">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16">
+<path fill="#A9A9A9" d="M13.649,2.343c-2.286-2.288-5.726-2.973-8.713-1.734C1.948,1.848,0,4.764,0,8
+                                        c0,3.236,1.948,6.152,4.936,7.391s6.427,0.554,8.713-1.734C15.154,12.158,16,10.123,16,8C16,5.876,15.154,3.841,13.649,2.343
+                                        L13.649,2.343z M9.062,12.25H6.928V6.97h2.133V12.25z M7.995,6.081c-0.473,0-0.899-0.285-1.08-0.722
+                                        c-0.181-0.437-0.081-0.94,0.254-1.275C7.503,3.75,8.007,3.649,8.443,3.831c0.438,0.182,0.721,0.608,0.721,1.082
+                                        c0,0.31-0.123,0.607-0.343,0.827S8.305,6.081,7.995,6.081z" />
+</svg>
+
+<div class="c-payment__credit-cvc-panel">
+<p>{{local["cvc-tip"]}}</p>
+<div style="margin-top: 10px;">
+<div class="u-de-fl">
+<p class="c-payment__card-type">{{local["cvc-visa"]}}</p>
+<p class="c-payment__cvc-desc">{{local["cvc-visa-desc"]}}</p>
+ </div>
+<img src="/modules/mod_payment/images/cc_back.png">
+</div>
+<div style="clear:both;"></div>
+<div style="margin-top: 16px;">
+<div style="float: left;">
+<p class="c-payment__card-type">{{local["cvc-aex"]}}</p>
+<p class="c-payment__cvc-desc">{{local["cvc-aex-desc"]}}</p>
+</div>
+<img src="/modules/mod_payment/images/cc_front.png">
+</div>
+<div style="clear:both;"></div>
+</div>
+</div>
+</div>
+</div>
+<p id="cc-error-tip" class="u-de-message-tip" v-if="errorStatus.isPaymentError">{{paymentErrorInfo}}</p>
+</div>
+</div>
+<div class="c-payment__submit">
+<button class="u-de-btn orange-btn u-animate-btn" :disabled="isShowAnimate" @click="toPay('card')">
+<span>{{paymentShowInfo.payBtn}}</span>
+</button>
+<p class="u-text-center">
+<span>
+{{local["click-term"]}}
+<a class="u-de-a" href="https://www.designevo.com/terms.html" target="_blank" style="text-decoration: underline !important;">{{local["term-use"]}}.</a>
+</span>
+</p>
+</div>
+</div>
+<div class="c-payment__safety">
+<ul>
+<li v-for="(item,index) in safeData" class="u-text-center">
+<span class="c-payment__safety-item">
+<svg v-if="index==0" version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="24px" height="24px" viewBox="-1 -1 24 24">
+<path fill="#20ba00" d="M18.777,3.222c0,0-0.822,0.556-2.223,0.556c-0.621,0-1.378-0.111-2.223-0.444
+    c-1-0.4-2.134-1.111-3.333-2.333c-1.2,1.2-2.333,1.934-3.333,2.333C6.822,3.667,6.066,3.8,5.444,3.8c-1.4,0-2.222-0.555-2.222-0.555
+    S1,14.377,11,21C21,14.377,18.777,3.222,18.777,3.222z M11,19.645c-3.511-2.512-5.711-5.91-6.533-10.133
+    C4.089,7.578,4.089,5.867,4.156,4.754c0.378,0.089,0.8,0.133,1.289,0.133c0.867,0,1.755-0.178,2.645-0.533
+    c0.978-0.4,1.956-1.022,2.911-1.844l0,0L11,19.645L11,19.645L11,19.645z" />
+</svg>
+<svg v-if="index==1" version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="24px" height="24px" viewBox="-1.5 -1.5 24 24">
+<path fill="#20ba00" d="M13.408,16.281c1.338,0.007,2.443-1.039,2.512-2.375v-0.035l2.436-2.736
+    c0.514-0.596,1.405-0.683,2.025-0.197c0.297,0.246,0.483,0.604,0.515,0.988c0.032,0.387-0.094,0.768-0.349,1.06l-4.863,5.576
+    c-0.648,0.743-1.587,1.169-2.574,1.169H5.799L4.529,21L0,16.584l3.245-3.217c1.345-1.336,3.334-1.787,5.124-1.16l0.712,0.251h4.386
+    c0.374,0,0.731,0.151,0.992,0.419c0.261,0.27,0.401,0.631,0.39,1.005c-0.05,0.755-0.683,1.34-1.439,1.327h-2.632
+    c-0.296,0-0.536,0.24-0.536,0.537c0,0.296,0.24,0.535,0.536,0.535H13.408z M10.753,6.022c0.354,0.201,0.724,0.373,1.104,0.515
+    c0.163,0.064,0.326,0.131,0.486,0.202c0.192,0.082,0.372,0.19,0.535,0.322c0.192,0.132,0.294,0.361,0.263,0.592
+    s-0.19,0.426-0.411,0.501c-0.291,0.123-0.609,0.164-0.922,0.12c-0.517-0.057-1.018-0.206-1.48-0.442
+    c-0.096-0.06-0.206-0.095-0.319-0.103c-0.257,0-0.337,0.26-0.382,0.399C9.543,8.396,9.468,8.667,9.396,8.937
+    c-0.12,0.442-0.045,0.607,0.369,0.809c0.455,0.207,0.938,0.345,1.433,0.412c0.078,0.009,0.156,0.025,0.231,0.049
+    c0.017,0.083,0.022,0.167,0.019,0.251v0.53c-0.008,0.136,0.042,0.271,0.139,0.369c0.096,0.098,0.229,0.148,0.366,0.142h0.364h0.429
+    c0.134,0.008,0.265-0.044,0.357-0.14c0.093-0.097,0.14-0.229,0.128-0.362v-0.24v-0.491c0-0.163,0.038-0.214,0.214-0.264
+    c0.568-0.149,1.075-0.475,1.448-0.929c0.486-0.587,0.686-1.361,0.545-2.11c-0.16-0.799-0.667-1.485-1.384-1.872
+    c-0.403-0.213-0.819-0.402-1.244-0.566l-0.163-0.066c-0.249-0.1-0.482-0.234-0.694-0.399c-0.149-0.108-0.231-0.286-0.215-0.47
+    c0.035-0.188,0.166-0.342,0.346-0.407c0.128-0.051,0.265-0.078,0.403-0.08c0.566-0.034,1.133,0.078,1.645,0.326
+    c0.527,0.255,0.644-0.129,0.687-0.292c0.07-0.214,0.133-0.429,0.194-0.654l0.073-0.257c0.045-0.123,0.038-0.257-0.019-0.375
+    c-0.057-0.118-0.158-0.207-0.281-0.248c-0.363-0.16-0.746-0.272-1.139-0.333c-0.354-0.056-0.354-0.056-0.354-0.412
+    C13.292,0.109,13.234,0,12.503,0h-0.395c-0.429,0.013-0.545,0.14-0.556,0.56v0.292v0.156c0,0.315,0,0.315-0.312,0.429
+    c-1.141,0.414-1.755,1.194-1.823,2.318C9.354,4.701,9.794,5.447,10.753,6.022z" />
+</svg>
+<span>{{item}}</span>
+</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<ul class="c-payment__evaluation">
+<div class="swiper-container swiper-container-c swiper-no-swiping">
+<div class="swiper-wrapper">
+<li class="c-payment__evaluation-item swiper-slide" v-for="(item,index) in evaluationData">
+<div class="c-payment__evaluation-info">
+{{item.title}}
+</div>
+<br>
+<div class="c-user-name">{{item.name}}</div>
+</li>
+</div>
+<div class="swiper-pagination swiper-pagination-c"></div>
+
+
+<div class="swiper-rating-wrapper">
+<div class="rating">
+<img src="/modules/mod_payment/images/stars-5.svg">
+<div class="trustpilot-widget es_pt_trustpilot" data-locale="es-ES" data-template-id="5419b6a8b0d04a076446a9ad" data-businessunit-id="5a3378b0b894c90820306dca" data-style-height="24px" data-style-width="100%" data-theme="light" style="position: relative;"><iframe frameborder="0" scrolling="no" title="Customer reviews powered by Trustpilot" src="https://widget.trustpilot.com/trustboxes/5419b6a8b0d04a076446a9ad/index.html?templateId=5419b6a8b0d04a076446a9ad&amp;businessunitId=5a3378b0b894c90820306dca#locale=es-ES&amp;styleHeight=24px&amp;styleWidth=100%25&amp;theme=light" style="position: relative; height: 24px; width: 100%; border-style: none; display: block; overflow: hidden;"></iframe></div>
+</div>
+</div>
+</ul>
+<p class="c-payment__contact u-text-center"><span>{{local["contact-us-tip"]}} <a href="/contact.html" target="_blank">{{local["contact-us"]}}</a>{{local["anytime"]}}</span></a></p>
+<div class="c-payment__animate" v-if="isShowAnimate">
+<div class="c-payment__animate-content">
+<div style="position: relative;width: 100%;height: 100%;text-align: center;">
+<img class="c-payment__rotate-loading" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAABYlAAAWJQFJUiTwAAAKTWlDQ1BQaG90b3Nob3AgSUNDIHByb2ZpbGUAAHjanVN3WJP3Fj7f92UPVkLY8LGXbIEAIiOsCMgQWaIQkgBhhBASQMWFiApWFBURnEhVxILVCkidiOKgKLhnQYqIWotVXDjuH9yntX167+3t+9f7vOec5/zOec8PgBESJpHmomoAOVKFPDrYH49PSMTJvYACFUjgBCAQ5svCZwXFAADwA3l4fnSwP/wBr28AAgBw1S4kEsfh/4O6UCZXACCRAOAiEucLAZBSAMguVMgUAMgYALBTs2QKAJQAAGx5fEIiAKoNAOz0ST4FANipk9wXANiiHKkIAI0BAJkoRyQCQLsAYFWBUiwCwMIAoKxAIi4EwK4BgFm2MkcCgL0FAHaOWJAPQGAAgJlCLMwAIDgCAEMeE80DIEwDoDDSv+CpX3CFuEgBAMDLlc2XS9IzFLiV0Bp38vDg4iHiwmyxQmEXKRBmCeQinJebIxNI5wNMzgwAABr50cH+OD+Q5+bk4eZm52zv9MWi/mvwbyI+IfHf/ryMAgQAEE7P79pf5eXWA3DHAbB1v2upWwDaVgBo3/ldM9sJoFoK0Hr5i3k4/EAenqFQyDwdHAoLC+0lYqG9MOOLPv8z4W/gi372/EAe/tt68ABxmkCZrcCjg/1xYW52rlKO58sEQjFu9+cj/seFf/2OKdHiNLFcLBWK8ViJuFAiTcd5uVKRRCHJleIS6X8y8R+W/QmTdw0ArIZPwE62B7XLbMB+7gECiw5Y0nYAQH7zLYwaC5EAEGc0Mnn3AACTv/mPQCsBAM2XpOMAALzoGFyolBdMxggAAESggSqwQQcMwRSswA6cwR28wBcCYQZEQAwkwDwQQgbkgBwKoRiWQRlUwDrYBLWwAxqgEZrhELTBMTgN5+ASXIHrcBcGYBiewhi8hgkEQcgIE2EhOogRYo7YIs4IF5mOBCJhSDSSgKQg6YgUUSLFyHKkAqlCapFdSCPyLXIUOY1cQPqQ28ggMor8irxHMZSBslED1AJ1QLmoHxqKxqBz0XQ0D12AlqJr0Rq0Hj2AtqKn0UvodXQAfYqOY4DRMQ5mjNlhXIyHRWCJWBomxxZj5Vg1Vo81Yx1YN3YVG8CeYe8IJAKLgBPsCF6EEMJsgpCQR1hMWEOoJewjtBK6CFcJg4Qxwicik6hPtCV6EvnEeGI6sZBYRqwm7iEeIZ4lXicOE1+TSCQOyZLkTgohJZAySQtJa0jbSC2kU6Q+0hBpnEwm65Btyd7kCLKArCCXkbeQD5BPkvvJw+S3FDrFiOJMCaIkUqSUEko1ZT/lBKWfMkKZoKpRzame1AiqiDqfWkltoHZQL1OHqRM0dZolzZsWQ8ukLaPV0JppZ2n3aC/pdLoJ3YMeRZfQl9Jr6Afp5+mD9HcMDYYNg8dIYigZaxl7GacYtxkvmUymBdOXmchUMNcyG5lnmA+Yb1VYKvYqfBWRyhKVOpVWlX6V56pUVXNVP9V5qgtUq1UPq15WfaZGVbNQ46kJ1Bar1akdVbupNq7OUndSj1DPUV+jvl/9gvpjDbKGhUaghkijVGO3xhmNIRbGMmXxWELWclYD6yxrmE1iW7L57Ex2Bfsbdi97TFNDc6pmrGaRZp3mcc0BDsax4PA52ZxKziHODc57LQMtPy2x1mqtZq1+rTfaetq+2mLtcu0W7eva73VwnUCdLJ31Om0693UJuja6UbqFutt1z+o+02PreekJ9cr1Dund0Uf1bfSj9Rfq79bv0R83MDQINpAZbDE4Y/DMkGPoa5hpuNHwhOGoEctoupHEaKPRSaMnuCbuh2fjNXgXPmasbxxirDTeZdxrPGFiaTLbpMSkxeS+Kc2Ua5pmutG003TMzMgs3KzYrMnsjjnVnGueYb7ZvNv8jYWlRZzFSos2i8eW2pZ8ywWWTZb3rJhWPlZ5VvVW16xJ1lzrLOtt1ldsUBtXmwybOpvLtqitm63Edptt3xTiFI8p0in1U27aMez87ArsmuwG7Tn2YfYl9m32zx3MHBId1jt0O3xydHXMdmxwvOuk4TTDqcSpw+lXZxtnoXOd8zUXpkuQyxKXdpcXU22niqdun3rLleUa7rrStdP1o5u7m9yt2W3U3cw9xX2r+00umxvJXcM970H08PdY4nHM452nm6fC85DnL152Xlle+70eT7OcJp7WMG3I28Rb4L3Le2A6Pj1l+s7pAz7GPgKfep+Hvqa+It89viN+1n6Zfgf8nvs7+sv9j/i/4XnyFvFOBWABwQHlAb2BGoGzA2sDHwSZBKUHNQWNBbsGLww+FUIMCQ1ZH3KTb8AX8hv5YzPcZyya0RXKCJ0VWhv6MMwmTB7WEY6GzwjfEH5vpvlM6cy2CIjgR2yIuB9pGZkX+X0UKSoyqi7qUbRTdHF09yzWrORZ+2e9jvGPqYy5O9tqtnJ2Z6xqbFJsY+ybuIC4qriBeIf4RfGXEnQTJAntieTE2MQ9ieNzAudsmjOc5JpUlnRjruXcorkX5unOy553PFk1WZB8OIWYEpeyP+WDIEJQLxhP5aduTR0T8oSbhU9FvqKNolGxt7hKPJLmnVaV9jjdO31D+miGT0Z1xjMJT1IreZEZkrkj801WRNberM/ZcdktOZSclJyjUg1plrQr1zC3KLdPZisrkw3keeZtyhuTh8r35CP5c/PbFWyFTNGjtFKuUA4WTC+oK3hbGFt4uEi9SFrUM99m/ur5IwuCFny9kLBQuLCz2Lh4WfHgIr9FuxYji1MXdy4xXVK6ZHhp8NJ9y2jLspb9UOJYUlXyannc8o5Sg9KlpUMrglc0lamUycturvRauWMVYZVkVe9ql9VbVn8qF5VfrHCsqK74sEa45uJXTl/VfPV5bdra3kq3yu3rSOuk626s91m/r0q9akHV0IbwDa0b8Y3lG19tSt50oXpq9Y7NtM3KzQM1YTXtW8y2rNvyoTaj9nqdf13LVv2tq7e+2Sba1r/dd3vzDoMdFTve75TsvLUreFdrvUV99W7S7oLdjxpiG7q/5n7duEd3T8Wej3ulewf2Re/ranRvbNyvv7+yCW1SNo0eSDpw5ZuAb9qb7Zp3tXBaKg7CQeXBJ9+mfHvjUOihzsPcw83fmX+39QjrSHkr0jq/dawto22gPaG97+iMo50dXh1Hvrf/fu8x42N1xzWPV56gnSg98fnkgpPjp2Snnp1OPz3Umdx590z8mWtdUV29Z0PPnj8XdO5Mt1/3yfPe549d8Lxw9CL3Ytslt0utPa49R35w/eFIr1tv62X3y+1XPK509E3rO9Hv03/6asDVc9f41y5dn3m978bsG7duJt0cuCW69fh29u0XdwruTNxdeo94r/y+2v3qB/oP6n+0/rFlwG3g+GDAYM/DWQ/vDgmHnv6U/9OH4dJHzEfVI0YjjY+dHx8bDRq98mTOk+GnsqcTz8p+Vv9563Or59/94vtLz1j82PAL+YvPv655qfNy76uprzrHI8cfvM55PfGm/K3O233vuO+638e9H5ko/ED+UPPR+mPHp9BP9z7nfP78L/eE8/sl0p8zAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAACRASURBVHgBADAkz9sB////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAnp6eAAMDAwACAgIAAwMDAAMDAwADAwMAAwMDAAMDAwADAwMABAQEAAMDAwAEBAQAAwMDAAQEBAAoKCgAAAAAAAAAAAAAAAAAAAAAAAAAAAASEhIAAAAAAAAAAAAAAAAEAAAABgAAAAAAAAD7AAAA/AAAAP8AAAAAAAAAAAAAAAAAAAAA7u7uAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAREREAAAAAAAQAAAAAAAAAAP39/QAAAAAAAAAAAAEBAQABAQEAAAAAAAEBAQABAQEAAQEBAP7+/gABAQEA/v7+AAICAgD///8AAAAAAPr6+g4CAgJIAwMDQwICAicCAgIg8/PzEwAAAAj///8A+Pj49t/f3+7e3t7jCQkJ2AgICLz9/f24S0tL8gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAD+/v4AAAAAAAAAAAAAAAAAAAAAAAAAAAD9/f0AAQEBAAEBAQD+/v4AAQEBAP7+/gAtLS0B+vr6Vf///2IKCgpBAAAABgAAAAAAAAAAAQEBAAAAAAAAAAAAAQEBAAkJCQ4qKioOCgoKINPT0z0GBgZlEhIS+NDQ0LoFBQWeGRkZshISEv8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA/f39AP7+/gD9/f0A/v7+AP39/QD+/v4A/v7+AP39/QD+/v4A/f39AP7+/gAsLCxhAAAA2AkJCakFBQVHAAAABgAAAAAAAAAAAAAAAP///wAAAAAAAAAAAAAAAAAAAAAAAAAAACAgIAAcHBwA8PDwAPPz8wj8/PxO/v7+sOfn59TX19dXAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAP39/QD9/f0A/f39APz8/AD+/v4A/f39AP39/QD9/f0A/f39ADIyMio4ODjGCgoKngMDAyYAAAAA////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJSUlAPn5+QD29vYA+/v7AAAAAAAAAAAq////qOrq6sDt7e0mAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAD9/f0A/f39AP7+/gD9/f0A/Pz8AP39/QD9/f0A/f39ADo6OmQNDQ3KBAQEOQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwMDAAFBQUA+vr6AP7+/gAAAAAAAAAAAAAAAAAAAAA//f39ze3t7V8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA/f39AAAAAAD///8AAwMDAAAAAAAAAAAAUFBQAfr6+pEJCQltAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgICAAAAAAD///8AAQEBAAEBAQABAQEAAAAAAAEBAQwAAACg7u7uLRISEnUAAAD/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAP39/QD8/PwA/f39AP39/QD9/f0AVFRUAfr6+qAICAht////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA+vr6APr6+gAFBQUABAQEAAAAAAAAAAAAAQEBAAEBAQABAQEAAAAAAAAAAHPv7++dAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAD8/PwA/f39AP39/QD8/PwA/Pz8APn5+ZMICAheAAAAAAAAAAD///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOLi4gAFBQUACgoKAAYGBgACAgIAAgICAAAAAAABAQEAAQEBAAEBAQABAQEAAQEBYfLy8o0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA/f39APz8/AD8/PwA/f39AFRUVGMJCQlrAAAAAAAAAAAAAAAAAAAAAP///wAAAAAAAAAAAAAAAAAAAAAAAAAAAP///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPLy8gDY2NgADg4OAA0NDQAEBAQAAQEBAAAAAAABAQEAAQEBAAEBAQABAQEAAQEBAAEBAQAAAABx8/PzXwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAPz8/AD9/f0A/Pz8AFZWVigLCwuRAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA////AAAAAAAAAAAA////AOnp6QDLy8sAEBAQABMTEwALCwsABAQEAAEBAQABAQEAAgICAAEBAQABAQEAAQEBAAEBAQABAQEAAQEBAAEBAZT29vYlAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAD8/PwA////AAICAgAKCgqaAQEBCwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///wD////b/f39xP///9QBAQHo+fn5BeXl5Rn19fUhEhISPwgICCcHBwcABAQEAAEBAQAAAAAAAQEBAAEBAQAAAAAAAQEBAAEBAQABAQEAAQEBAAAAAAAAAAAM////mQAAAEIAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA/Pz8AP7+/gBra2tcBQUFPQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA////AAEBAQAAAAAAAAAA//r6+rj8/PyCBwcHyAEBAQATExMAAAAAAAAAAAAAAAAAAAAAAQAAAADV1dUxAQEBfQAAAE8BAQEBAgICAAEBAQAAAAAAAgICAAEBAQABAQEAAQEBAAEBAQAAAAAAAQEBAAAAAEH39/dXCQkJqQAAAAAAAAAAAAAAAAIAAAAAAAAAAPz8/AB2dnYBCQkJegAAAAD///8A////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///8A/v7+6vT09E4DAwNKBwcHyAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP8AAAD/KysrzioqKlEEBARIAQEB6AEBAQABAQEAAgICAAEBAQABAQEAAQEBAAEBAQABAQEAAQEBAAEBAQABAQEAAAAAfQAAAAEAAAAAAAAAAAAAAAACAAAAAAAAAAD8/PwA9PT0TgMDAykAAAAAAAAAAAAAAAD///8A////AAAAAAAAAAAAAAAAAAAAAAAAAAAA/f393fLy8jcJCQm0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJiYmugICAjcBAQHZAgICAAICAgACAgIAAQEBAAEBAQABAQEAAQEBAAEBAQABAQEAAQEBAAEBASv5+flLAAAAAAAAAAAAAAAABAAAAAAAAAAA+/v7AAcHB2EAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///8AAQEBAAAAAAAAAAAA/v7+6vT09EUNDQ3gAAAAAAAAAAAAAAAAAAAAAAAAAADu7u4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADi8fHxRwEBAcgBAQEYAQEBAAEBAQAAAAAAAQEBAAEBAQAAAAAAAQEBAAAAAAABAQEAAAAAYAAAALQAAAAAAAAAAAIAAAAAAAAAAHV1dQ0FBQVIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///wD///8AAAAA//T09GCrq6vfAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8PD+ECAgJeAQEB/wEBAQABAQEAAgICAAEBAQABAQEAAQEBAAEBAQABAQEAAQEBAAEBAUz8/PwMAAAAAAAAAAACAAAAAAAAAAAEBARBAQEBBwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPj4+LKdnZ23+Pj4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAwMuwMDA60BAQEAAQEBAAEBAQACAgIAAQEBAAEBAQABAQEAAQEBAAAAAAAAAAAH////PgAAAAAAAAAAAgAAAAAAAAAABAQEQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD4+PiF9/f3APf39wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQGFAgICAAICAgABAQEAAQEBAAEBAQABAQEAAAAAAAEBAQABAQEAAQEBAAAAAEAAAAAAAAAAAAQAAAAAAAAAAAQEBCsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD9/f3giYmJywQEBAD7+/sAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAgI0Pr6+t0AAAAjAAAAAAEBAQAAAAAAAAAAAAAAAAABAQEAAAAAAAAAAAAAAAArAAAAAAAAAAACAAAAAAAAAAABAQEiAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA+vr6t/f39wD29vYA9vb2AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQG1AQEBAAEBAQABAQEAAQEBAAEBAQABAQEAAAAAAAAAAAAAAAAAAQEBJAAAAAAAAAAABAAAAAAAAAAAAwMDEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP7+/tL39/cAAgICAAICAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgIC0f///wAAAAAAAAAAAAEBAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAQAAAAAAAAAAP///wwAAAAAAQEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD////p9/f3AAAAAAACAgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAesAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAQAAAAAMAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAP///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQEB//b29gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAA9AAAABEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBARb39/cA////AP///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQEBFAAAAAD///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPQAAAAAAAAAAAQAAAAAAAAAAP7+/uwDAwMRAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAwMt9/f3AP///wD9/f0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC8AAAAAAQEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADrAAAAAAAAAAACAAAAAAAAAAD////cAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQESvj4+AD39/cA9/f3AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA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" data-alt="resource-loading">
+<p class="c-downloading__text">{{paymentShowInfo.processing}}</p>
+</div>
+</div>
+</div>
+</div><div class="c-payment-success" style="display: none">
+<h3>{{local["thank-purchase"]}}</h3>
+<div class="c-payment-success__panel">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="64px" height="65px" viewBox="0 0 64 65">
+<path fill="#5DBF37" d="M32,0.5c-17.65,0-32,14.35-32,32c0,17.651,14.35,32,32,32s32-14.349,32-32
+		C64,14.85,49.65,0.5,32,0.5z M32,60.593c-15.495,0-28.093-12.598-28.093-28.093C3.907,17.006,16.505,4.407,32,4.407
+		S60.093,17.006,60.093,32.5C60.093,47.995,47.495,60.593,32,60.593z" />
+<path fill="#5DBF37" d="M47.062,22.011L28.158,41.017l-9.621-9.673c-0.941-0.947-2.489-0.947-3.431,0
+		c-0.942,0.947-0.942,2.503,0,3.45l11.302,11.362c0.472,0.473,1.077,0.743,1.75,0.743c0.672,0,1.277-0.271,1.748-0.743L50.494,25.46
+		c0.941-0.947,0.941-2.503,0-3.449C49.552,21.063,48.071,21.063,47.062,22.011z" />
+</svg>
+<p v-if="!isUpgrade" class="c-payment-success__download-tip">{{local["download-ready"]}}</p>
+<p v-if="isUpgrade" class="c-payment-success__download-tip">{{local["upgrade-ready"]}}</p>
+<p v-if="!isUpgrade" class="c-payment-success__account-tip">
+{{local["upgrade-click-logo-download"]}}<a onclick="myLogoClick();" class="u-de-a">{{local["my-logos"]}}</a>{{local["panel"]}}</p>
+<p v-if="isUpgrade" class="c-payment-success__account-tip">
+{{local["upgrade-click-logo"]}}<a onclick="myLogoClick();" class="u-de-a">{{local["my-logos"]}}</a>{{local["panel"]}}</p>
+<button v-if="!isUpgrade" class="u-de-btn green-btn" @click="downloadNow">{{local["download-now"]}}</button>
+<button v-if="isUpgrade" class="u-de-btn green-btn" @click="edit">{{local["edit"]}}</button>
+
+
+
+<img v-if="affiliateURL!=null" :src="affiliateURL" width="1" height="1">
+</div>
+</div><script>
+    var localPayment = {"contact-us-tip": "Si tienes cualquier pregunta, no dudes en ",
+                            "back": "Volver",
+                            "contact-us": "contactar con nosotros",
+                            "anytime": ".",
+                            "choose-package": "Elige un paquete",
+                            "checkout": "Realizar pedido",
+                            "total": "Total",
+                            "faqs": "Preguntas frecuentes",
+                            "more-faqs": "Más preguntas frecuentes",
+                            "credit-card": "Tarjeta de crédito",
+                            "pay-download": "Pagar y descargar ahora",
+                            "click-term": "Al hacer clic en el botón anterior, aceptas nuestros ",
+                            "paypal-tip": "You can make payment with PayPal. Click on the button below to sign in to your PayPal account.",
+                            "term-use": "Términos de uso",
+                            "safe-data": [
+                            "Pago seguro SSL de 128 Bit",
+                            "Garantía de devolución del dinero de 7 días"
+                            ],
+                            "evaluation-data": [
+                            {
+                            "title": "PearlMountain ofrece DesignEvopara crear logotipos personalizados para usuarios de todos los niveles. Con muchos recursos y abundantes fuentes de texto, formas e iconos que se pueden buscar.",
+                            "name": "Rick Broida"
+                            },
+                            {
+                            "title": "DesignEvo es una opción realmente buena para hacer un esbozo rápido. En su interior, hay más de 3.000 plantillas de todo tipo.",
+                            "name": "Dieter Petereit"
+                            },
+                            {
+                            "title": "DesignEvo es un sitio web que te ayuda a crear diseños de logotipos personalizados. Crear un logotipo único no debería llevarte más de unos minutos.",
+                            "name": "Softonic Equipo Editorial"
+                            }
+                            ],
+                            "errorTipInfo": {
+                            "cardName": "Por favor introduce un nombre de titular de tarjeta válido.",
+                            "cardInfo": "Por favor introduce un número de tarjeta de crédito válido.",
+                            "expInfo": "Por favor introduce una fecha de vencimiento válida.",
+                            "cvcInfo": "or favor introduce un código de seguridad válido."
+                            },
+                            "thank-purchase": "¡Gracias por tu compra!",
+                            "download-ready": "¡Tu descarga está lista!",
+                            "click-to-logo": "Haz clic en el botón siguiente para descargar tu logotipo. Puedes verlo o reeditarlo en ",
+                            "my-logos": "Mis logotipos",
+                            "panel": " .",
+                            "download-now": "Descargar ahora",
+                            "make-new-logo": "Crea nuevos logotipos aquí",
+                            "get-payment": "¿Qué recibirás tras el pago?",
+                            "cardholderName": "Nombre del titular de la tarjeta",
+                            "cardNumber": "Número de tarjeta de crédito",
+                            "cvc-tip": "El código de seguridad de la tarjeta es normalmente un número de 3 o 4 dígitos impreso en el reverso o el anverso de tu tarjeta.",
+                            "cvc-visa": "Visa o MasterCard",
+                            "cvc-visa-desc": "En el reverso de tu tarjeta, el último número de 3 dígitos después del número principal de tu tarjeta en el recuadro de firma es tu código de seguridad.",
+                            "cvc-aex": "American Express",
+                            "cvc-aex-desc": "En el reverso de tu tarjeta, el último número de 3 dígitos después del número principal de tu tarjeta en el recuadro de firma es tu código de seguridad.",
+                            "one-time": "Una vez",
+                            "download-sample": "Descargar muestra",
+                            "processing-payment": "Procesando tu pago...",
+                            "free": "Gratis",
+                            "download-free": "Descargar gratis",
+                            "give-credit": "Dar crédito",
+                            "low-files": "Archivos de baja resolución",
+                            "low-files-tip": "Obtén un archivoPNG/JPG con un tamaño máximo de 300 x 300 px.",
+                            "png-background": "PNG con fondo",
+                            "basic": "Básico",
+                            "plus": "Plus",
+                            "choose": "Elige",
+                            "continue":"Continue",
+                            "max-files": "Resolución máxima 5000x5000px",
+                            "max-files-tip": "Obtén un archivo PNG/JPG con un tamaño máximo de 5000 x 5000px.",
+                            "png-transparent": "PNG con fondo transparente",
+                            "print-ready": "Listo para imprimir",
+                            "print-ready-tip": "Imprime tu logotipo en una tarjeta de visita, sobre, camiseta, etc. con alta resolución.",
+                            "re-download": "Editar y descargar de nuevo",
+                            "lifetime-support": "Asistencia de por vida",
+                            "pdf-svg": "Archivos vectoriales SVG y PDF",
+                            "copyright-ownership": "El derecho a registrar una marca registrada",
+                            "copyright-ownership-tip": "Tienes el derecho a registrar el diseño del logotipo personalizado y comprado.",
+                            "faq1": "¿Puedo descargar mi logotipo inmediatamente una vez que lo compre?",
+                            "faq-reply1": "¡Sí!",
+                            "faq2": "¿Es mi compra de pago único?",
+                            "faq-reply2": "¡Sí!",
+                            "faq3": "¿Puedo solicitar un reembolso?",
+                            "faq-reply3": "¡Sí, tienes7 días para hacerlo!",
+                            "faq4": "¿Puedo solicitar una marca registrada o un copyright?",
+                            "faq-reply4": "¡Sí, incluido en el paquete PLUS!",
+                            "faq5": "¿Puedo usar mi logotipo en sitios web, tarjetas de visita, redes sociales, impresiones, etc.?",
+                            "faq-reply5": "¡Sí!",
+                            "faq6": "¿Puedo reeditar mi logotipo una vez comprado?",
+                            "faq-reply6": "¡Sí!",
+                            "coupon-success":"¡Has canjeado el código con éxito!",
+                            "coupon-failed":"¡Por favor introduce un código de cupón válido!",
+                            "processing":"Procesando...",
+                            "redeem": "Canjear",
+                            "couponCode": "Código de cupón",
+                            "coupon": "¿Tienes un cupón?",
+                            "current-package": "Tu paquete actual",
+                            "logo-preview" : "Previsualiza tu logotipo en diferentes escenarios",
+                            "package-offer-title" : "¡Enhorabuena! Acabas de crear un logotipo excelente.",
+                            "package-offer-content-pre" : "[Oferta por tiempo limitado] Compra tu logotipo ahora y ahorra hasta un ",
+                            "package-offer-content-mid" : "60% off",
+                            "package-offer-content-sub" : ".",
+                            "upgrade-plus": "Paga %s para actualizar",
+                            "edit" : "Editar ahora",
+                            "upgrade-ready": "¡Tu logotipo ha sido actualizado!",
+                            "upgrade-click-logo": "Haz clic en el botón siguiente para editar tu logotipo y poder verlo en el panel de ",
+                            "upgrade-click-logo-download": "Haz clic en el botón siguiente para descargar tu logotipo y poder verlo en el panel de ",
+                            "currency": "Seleccionar divisa",
+                            "features": "Planes y características",
+                            "credit": "No es necesario dar crédito",
+                            "low-resolution": "Archivos de baja resolución (JPG, PNG)",
+                            "high-resolution": "Archivos de alta resolución (JPG, PNG)",
+                            "high-resolution-free": "Limitado a 500 px",
+                            "high-resolution-paid": "Hasta 5000 px",
+                            "transparent-png": "PNG transparente",
+                            "edit-redownload": "Editar y volver a descargar",
+                            "limited": "Limitado",
+                            "vector-file": "Archivos vectoriales (PDF, SVG)",
+                            "download-font": "Descargar archivos de fuentes",
+                            "copyright-own": "Titularidad del copyright",
+                            "package-free": "Descarga un logotipo gratis en baja resolución.",
+                            "package-free-tip1": "Debes mencionarnos para usar este logotipo gratis.",
+                            "package-free-tip2": "Logotipo de 300x300 px sin fondo transparente.",
+
+                            "high-resolution-tip": "Obtén archivos JPG y PNG en alta resolución con un tamaño máximo de 5000x5000 px.",
+                            "transparent-png-tip": "Ten un archivo PNG con fondo transparente.",
+                            "edit-redownload-tip": "Realiza ediciones ilimitadas y vuelve a descargar tu logotipo en cualquier momento.",
+                            "lifetime-support-tip-pre": "No dudes en ",
+                            "lifetime-support-tip-sub": " para obtener asistencia profesional tras la compra.",
+                            "print-ready-tip-1": "Archivos en alta resolución disponibles para impresión HD sin perder calidad.",
+                            "vector-file-tip": "Obtén archivos vectoriales que se pueden redimensionar sin pérdida de calidad como los SVG (editables en software de diseño) y los PDF (para compartir fácilmente con los demás).",
+                            "download-font-tip": "Descarga la fuente usada e instálala en tu ordenador para seguir usándola.",
+                            "copyright-own-tip-pre": "Para más información sobre copyright, echa un vistazo a nuestra página de ",
+                            "copyright-own-tip-sub": ".",
+                            "oneTimeDesc": "Paga una vez por este logo y accede de por vida a él.",
+};
+    //ap测试只最后决定使用choose文案
+    localPayment["continue"] = localPayment["choose"];
+    var geoPlugin_array = {"geoplugin_request":"93.176.133.197","geoplugin_status":200,"geoplugin_delay":"1ms","geoplugin_credit":"Some of the returned data includes GeoLite data created by MaxMind, available from <a href=\\'http:\/\/www.maxmind.com\\'>http:\/\/www.maxmind.com<\/a>.","geoplugin_city":"Barcelona","geoplugin_region":"Catalonia","geoplugin_regionCode":"B","geoplugin_regionName":"Barcelona","geoplugin_areaCode":"","geoplugin_dmaCode":"","geoplugin_countryCode":"ES","geoplugin_countryName":"Spain","geoplugin_inEU":1,"geoplugin_euVATrate":21,"geoplugin_continentCode":"EU","geoplugin_continentName":"Europe","geoplugin_latitude":"41.3888","geoplugin_longitude":"2.159","geoplugin_locationAccuracyRadius":"20","geoplugin_timezone":"Europe\/Madrid","geoplugin_currencyCode":"EUR","geoplugin_currencySymbol":"&#8364;","geoplugin_currencySymbol_UTF8":"\u20ac","geoplugin_currencyConverter":"1.006"};
+    function geoplugin_countryCode() {
+        return geoPlugin_array.geoplugin_countryCode;
+    }
+    function geoplugin_currencyCode() {
+        return geoPlugin_array.geoplugin_currencyCode;
+    }
+    function geoplugin_currencyConverter(amt) {
+        if (!amt) {
+            return false;
+        }
+        var converted = amt * geoPlugin_array.geoplugin_currencyConverter;
+        if (converted < 0) {
+            return false;
+        } else {
+            return converted.toFixed(2);
+        }
+    }
+</script>
+<script src="https://js.stripe.com/v2/"></script>
+<link href="/web-res/css/fj_payment.css?v=1655364718" rel="stylesheet"><script src="/web-res/js/fj_payment.js?v=1660713263"></script>
+<script>
+    Stripe.setPublishableKey('pk_live_YjqlhoGfEi7O8ZpFUcT64ZNa');
+</script>
+<div id="top">
+</div>
+<div class="mobile_app_ctn">
+</div>
+<div class="content">
+<div class="row-fluid">
+<main id="content" role="main">
+
+
+
+<link rel="stylesheet" type="text/css" href="/templates/designevo/css/style.css?v=1570773259" />
+
+<script>
+    window.templateDataVersion = 1660809724</script>
+
+<script>
+    window.__lc = window.__lc || {};
+    window.__lc.license = 12062415;
+    ;(function (n, t, c) {
+        function i(n) {
+            return e._h ? e._h.apply(null, n) : e._q.push(n)
+        }
+
+        var e = {
+            _q: [], _h: null, _v: "2.0", on: function () {
+                i(["on", c.call(arguments)])
+            }, once: function () {
+                i(["once", c.call(arguments)])
+            }, off: function () {
+                i(["off", c.call(arguments)])
+            }, get: function () {
+                if (!e._h) throw new Error("[LiveChatWidget] You can't use getters before load.");
+                return i(["get", c.call(arguments)])
+            }, call: function () {
+                i(["call", c.call(arguments)])
+            }, init: function () {
+                var n = t.createElement("script");
+                n.async = !0, n.type = "text/javascript", n.src = "https://cdn.livechatinc.com/tracking.js", t.head.appendChild(n)
+            }
+        };
+        !n.__lc.asyncInit && e.init(), n.LiveChatWidget = n.LiveChatWidget || e
+    }(window, document, [].slice))
+</script>
+<noscript><a href="https://www.livechatinc.com/chat-with/12062415/" rel="nofollow">Chat with us</a>, powered by <a
+            href="https://www.livechatinc.com/?welcome" rel="noopener nofollow" target="_blank">LiveChat</a></noscript>
+
+<div id="preload">
+<div class="loading-ani">
+<div class="circle">
+<div class="circle-inset"></div>
+</div>
+<div class="circle">
+<div class="circle-inset"></div>
+</div>
+<div class="circle">
+<div class="circle-inset"></div>
+</div>
+<div class="circle">
+<div class="circle-inset"></div>
+</div>
+<img class="icon" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAAKT2lDQ1BQaG90b3Nob3AgSUNDIHByb2ZpbGUAAHjanVNnVFPpFj333vRCS4iAlEtvUhUIIFJCi4AUkSYqIQkQSoghodkVUcERRUUEG8igiAOOjoCMFVEsDIoK2AfkIaKOg6OIisr74Xuja9a89+bN/rXXPues852zzwfACAyWSDNRNYAMqUIeEeCDx8TG4eQuQIEKJHAAEAizZCFz/SMBAPh+PDwrIsAHvgABeNMLCADATZvAMByH/w/qQplcAYCEAcB0kThLCIAUAEB6jkKmAEBGAYCdmCZTAKAEAGDLY2LjAFAtAGAnf+bTAICd+Jl7AQBblCEVAaCRACATZYhEAGg7AKzPVopFAFgwABRmS8Q5ANgtADBJV2ZIALC3AMDOEAuyAAgMADBRiIUpAAR7AGDIIyN4AISZABRG8lc88SuuEOcqAAB4mbI8uSQ5RYFbCC1xB1dXLh4ozkkXKxQ2YQJhmkAuwnmZGTKBNA/g88wAAKCRFRHgg/P9eM4Ors7ONo62Dl8t6r8G/yJiYuP+5c+rcEAAAOF0ftH+LC+zGoA7BoBt/qIl7gRoXgugdfeLZrIPQLUAoOnaV/Nw+H48PEWhkLnZ2eXk5NhKxEJbYcpXff5nwl/AV/1s+X48/Pf14L7iJIEyXYFHBPjgwsz0TKUcz5IJhGLc5o9H/LcL//wd0yLESWK5WCoU41EScY5EmozzMqUiiUKSKcUl0v9k4t8s+wM+3zUAsGo+AXuRLahdYwP2SycQWHTA4vcAAPK7b8HUKAgDgGiD4c93/+8//UegJQCAZkmScQAAXkQkLlTKsz/HCAAARKCBKrBBG/TBGCzABhzBBdzBC/xgNoRCJMTCQhBCCmSAHHJgKayCQiiGzbAdKmAv1EAdNMBRaIaTcA4uwlW4Dj1wD/phCJ7BKLyBCQRByAgTYSHaiAFiilgjjggXmYX4IcFIBBKLJCDJiBRRIkuRNUgxUopUIFVIHfI9cgI5h1xGupE7yAAygvyGvEcxlIGyUT3UDLVDuag3GoRGogvQZHQxmo8WoJvQcrQaPYw2oefQq2gP2o8+Q8cwwOgYBzPEbDAuxsNCsTgsCZNjy7EirAyrxhqwVqwDu4n1Y8+xdwQSgUXACTYEd0IgYR5BSFhMWE7YSKggHCQ0EdoJNwkDhFHCJyKTqEu0JroR+cQYYjIxh1hILCPWEo8TLxB7iEPENyQSiUMyJ7mQAkmxpFTSEtJG0m5SI+ksqZs0SBojk8naZGuyBzmULCAryIXkneTD5DPkG+Qh8lsKnWJAcaT4U+IoUspqShnlEOU05QZlmDJBVaOaUt2ooVQRNY9aQq2htlKvUYeoEzR1mjnNgxZJS6WtopXTGmgXaPdpr+h0uhHdlR5Ol9BX0svpR+iX6AP0dwwNhhWDx4hnKBmbGAcYZxl3GK+YTKYZ04sZx1QwNzHrmOeZD5lvVVgqtip8FZHKCpVKlSaVGyovVKmqpqreqgtV81XLVI+pXlN9rkZVM1PjqQnUlqtVqp1Q61MbU2epO6iHqmeob1Q/pH5Z/YkGWcNMw09DpFGgsV/jvMYgC2MZs3gsIWsNq4Z1gTXEJrHN2Xx2KruY/R27iz2qqaE5QzNKM1ezUvOUZj8H45hx+Jx0TgnnKKeX836K3hTvKeIpG6Y0TLkxZVxrqpaXllirSKtRq0frvTau7aedpr1Fu1n7gQ5Bx0onXCdHZ4/OBZ3nU9lT3acKpxZNPTr1ri6qa6UbobtEd79up+6Ynr5egJ5Mb6feeb3n+hx9L/1U/W36p/VHDFgGswwkBtsMzhg8xTVxbzwdL8fb8VFDXcNAQ6VhlWGX4YSRudE8o9VGjUYPjGnGXOMk423GbcajJgYmISZLTepN7ppSTbmmKaY7TDtMx83MzaLN1pk1mz0x1zLnm+eb15vft2BaeFostqi2uGVJsuRaplnutrxuhVo5WaVYVVpds0atna0l1rutu6cRp7lOk06rntZnw7Dxtsm2qbcZsOXYBtuutm22fWFnYhdnt8Wuw+6TvZN9un2N/T0HDYfZDqsdWh1+c7RyFDpWOt6azpzuP33F9JbpL2dYzxDP2DPjthPLKcRpnVOb00dnF2e5c4PziIuJS4LLLpc+Lpsbxt3IveRKdPVxXeF60vWdm7Obwu2o26/uNu5p7ofcn8w0nymeWTNz0MPIQ+BR5dE/C5+VMGvfrH5PQ0+BZ7XnIy9jL5FXrdewt6V3qvdh7xc+9j5yn+M+4zw33jLeWV/MN8C3yLfLT8Nvnl+F30N/I/9k/3r/0QCngCUBZwOJgUGBWwL7+Hp8Ib+OPzrbZfay2e1BjKC5QRVBj4KtguXBrSFoyOyQrSH355jOkc5pDoVQfujW0Adh5mGLw34MJ4WHhVeGP45wiFga0TGXNXfR3ENz30T6RJZE3ptnMU85ry1KNSo+qi5qPNo3ujS6P8YuZlnM1VidWElsSxw5LiquNm5svt/87fOH4p3iC+N7F5gvyF1weaHOwvSFpxapLhIsOpZATIhOOJTwQRAqqBaMJfITdyWOCnnCHcJnIi/RNtGI2ENcKh5O8kgqTXqS7JG8NXkkxTOlLOW5hCepkLxMDUzdmzqeFpp2IG0yPTq9MYOSkZBxQqohTZO2Z+pn5mZ2y6xlhbL+xW6Lty8elQfJa7OQrAVZLQq2QqboVFoo1yoHsmdlV2a/zYnKOZarnivN7cyzytuQN5zvn//tEsIS4ZK2pYZLVy0dWOa9rGo5sjxxedsK4xUFK4ZWBqw8uIq2Km3VT6vtV5eufr0mek1rgV7ByoLBtQFr6wtVCuWFfevc1+1dT1gvWd+1YfqGnRs+FYmKrhTbF5cVf9go3HjlG4dvyr+Z3JS0qavEuWTPZtJm6ebeLZ5bDpaql+aXDm4N2dq0Dd9WtO319kXbL5fNKNu7g7ZDuaO/PLi8ZafJzs07P1SkVPRU+lQ27tLdtWHX+G7R7ht7vPY07NXbW7z3/T7JvttVAVVN1WbVZftJ+7P3P66Jqun4lvttXa1ObXHtxwPSA/0HIw6217nU1R3SPVRSj9Yr60cOxx++/p3vdy0NNg1VjZzG4iNwRHnk6fcJ3/ceDTradox7rOEH0x92HWcdL2pCmvKaRptTmvtbYlu6T8w+0dbq3nr8R9sfD5w0PFl5SvNUyWna6YLTk2fyz4ydlZ19fi753GDborZ752PO32oPb++6EHTh0kX/i+c7vDvOXPK4dPKy2+UTV7hXmq86X23qdOo8/pPTT8e7nLuarrlca7nuer21e2b36RueN87d9L158Rb/1tWeOT3dvfN6b/fF9/XfFt1+cif9zsu72Xcn7q28T7xf9EDtQdlD3YfVP1v+3Njv3H9qwHeg89HcR/cGhYPP/pH1jw9DBY+Zj8uGDYbrnjg+OTniP3L96fynQ89kzyaeF/6i/suuFxYvfvjV69fO0ZjRoZfyl5O/bXyl/erA6xmv28bCxh6+yXgzMV70VvvtwXfcdx3vo98PT+R8IH8o/2j5sfVT0Kf7kxmTk/8EA5jz/GMzLdsAAAAgY0hSTQAAeiUAAICDAAD5/wAAgOkAAHUwAADqYAAAOpgAABdvkl/FRgAAAqtJREFUeNrcmUtq3EAQhn8PXg6M9glEgWQXyNwg8jYbz8br6AbREeQTZBY5gHwDHUHGF9DcQDaGBLzRxMkiEKhsyqEtWo/qrhlJKRAautWPb7qr69EnRIQJSwCgNt6tssC0JeN3DCCcK8gGwLmxMtkcQWwT/wAgmRtICmDVUh7OBSQC8LmlbgVge2iQNf9jBYA7AGR5fnD9lnUg6FBwANjz2zyxzrntcyEinyckopSI7sldMiKKuL+0UZdweUBElVFec9m/ubgCBDwBTSmIqGxM1hyzCRn5gsRE9EjHkcRY+aoL5ERg2QPe258mciicsb4BAE4FEDcA3k3Vei7+B4ihIJOHGAKynQNEH8imw8JOTk479OKrQv/Xxu8QwKtjgyQAXjj2ecVbsrTUhbzSiTpUi9F7dLTMocCwpp7G8plBtOlIDGDpsAoRgEroqp8ZjqG6sl84QMSO4xdWT1YBZAngo6D9zgPChLnUBlkL2yeKEeGtJsgb4dFaKIe3aiBvHVI1WpJr68hQKZVBagA/tUBejggCAH8E3y7nlGl0XpHfI8/nl+DbfRfIgzD9M+bWuukC+SZMpGmKl3fcBPkuaBsrg0j6u+4DkZxE7xVXJRB6CaUmyJNRDJSs+kron/XGI7kwLsg9066xcLza1o+t441DkJM3c7EHgnjKFQ8CgSU9OUSqZtTWk/zOHSPDtQQk9kxGx5awN+DVzjz7ts65K/db8sk0JXndFk4vjmgnfOWyKyfQl41PAHyZAMSuzyUacq2QYdyrhFuGqKVZFNsWuxoJYs9ZltolHTQVmB27QMO8DaEBS4905VZIDayLSxE1Li01pTbuDXFoENNoVooQmaOb4w1iArm6GxWvQOA7D8mt7pCYIuKjMjLC4ZWhvDUrb8mueKU1uCbIqPJ3AASooacOORArAAAAAElFTkSuQmCC">
+<svg style="position: absolute;" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<defs>
+<filter id="water">
+<feGaussianBlur in="SourceGraphic" stdDeviation="10" result="blur" />
+<feColorMatrix in="blur" mode="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 19 -9" result="goo" />
+<feComposite in="SourceGraphic" in2="goo" operator="atop" />
+</filter>
+</defs>
+</svg>
+</div>
+</div>
+<a id="appUrl" href="https://www.designevo.com/apps/logo/" style="display: none;" target="_blank"></a>
+<div id="designevo"></div>
+<script>
+    gaEvent('app_convert_rate', 'loading', '');
+    var iconKeywords = '[{"keyword":"circle","count":"1002885"},{"keyword":"game","count":"766283"},{"keyword":"youtube","count":"689731"},{"keyword":"crown","count":"504240"},{"keyword":"shield","count":"493518"},{"keyword":"food","count":"442359"},{"keyword":"line","count":"423258"},{"keyword":"star","count":"413772"},{"keyword":"fire","count":"380390"},{"keyword":"flower","count":"358714"},{"keyword":"wings","count":"341616"},{"keyword":"soccer","count":"323795"},{"keyword":"skull","count":"312264"},{"keyword":"eagle","count":"310245"},{"keyword":"tree","count":"306429"},{"keyword":"lion","count":"303533"},{"keyword":"letter","count":"300403"},{"keyword":"instagram","count":"290930"},{"keyword":"computer","count":"285404"},{"keyword":"music","count":"277528"}]';
+</script>
+<script type="application/javascript">
+    window.FJConfig = {filterPath: ""};
+</script>
+<script src="/app/logo/core.js?v=1605594732" type="text/javascript"></script>
+<script src="/app/logo/bundle.js?v=1629443402" type="text/javascript"></script>
+<script>
+    window.coreStart = Date.now();
+</script>
+<script>
+    window.coreEnd = Date.now();
+</script>
+
+</main>
+</div>
+</div>
+</div>
+<link type="text/css" href="/media/com_app/css/app-style.css?v=1652770787" rel="stylesheet" />
+
+<script src="/web-res/js/fj_body_js.js?v=1641796223"></script>
+</body>
+</html>
