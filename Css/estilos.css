@@ -6,13 +6,27 @@ font-family: "Arial";
 font-size: 16;
 font-weight: bold;
 }
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+#cabecera 
+{
+    background-color: deeppink;
+=======
+
+>>>>>>> 00d570c5cee00be2a2ed0074a0d4958f63b4b8dc
 #cabecera
 {
 background-color: deeppink;
 background-position: center;
 color:white;
 font-weight: bold;
+<<<<<<< HEAD
 text-align: center;   
+=======
+>>>>>>> cabecera
+    
+>>>>>>> 00d570c5cee00be2a2ed0074a0d4958f63b4b8dc
 }
 #container
 {
